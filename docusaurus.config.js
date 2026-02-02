@@ -8,10 +8,10 @@ const config = {
 
   // GitHub Pages canonical settings (project site)
   url: 'https://avida-ed.github.io',
-  baseUrl: '/Avida-ED-test2/',
+  baseUrl: '/Avida-ED-Test2/',
 
   organizationName: 'Avida-ED',
-  projectName: 'Avida-ED-test2',
+  projectName: 'Avida-ED-Test2',
 
   // During stub phase, warnings are less disruptive than hard failures.
   // Flip back to 'throw' when the site is complete.
