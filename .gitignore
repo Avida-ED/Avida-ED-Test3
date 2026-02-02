@@ -1,0 +1,15 @@
+# Node
+node_modules/
+
+# Docusaurus build output
+build/
+
+# Local env files
+.env
+.env.*
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
