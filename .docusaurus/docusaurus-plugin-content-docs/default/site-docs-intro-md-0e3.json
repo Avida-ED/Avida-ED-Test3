@@ -5,7 +5,7 @@
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/Avida-ED-test2/docs/intro",
+  "permalink": "/Avida-ED-Test2/docs/intro",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -18,6 +18,6 @@
   "sidebar": "docsSidebar",
   "next": {
     "title": "Curriculum",
-    "permalink": "/Avida-ED-test2/docs/curriculum/"
+    "permalink": "/Avida-ED-Test2/docs/curriculum/"
   }
 }

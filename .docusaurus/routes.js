@@ -3,71 +3,71 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/Avida-ED-test2/about/avida-ed',
-    component: ComponentCreator('/Avida-ED-test2/about/avida-ed', '216'),
+    path: '/Avida-ED-Test2/about/avida-ed',
+    component: ComponentCreator('/Avida-ED-Test2/about/avida-ed', 'b55'),
     exact: true
   },
   {
-    path: '/Avida-ED-test2/about/digital-evolution',
-    component: ComponentCreator('/Avida-ED-test2/about/digital-evolution', 'f84'),
+    path: '/Avida-ED-Test2/about/digital-evolution',
+    component: ComponentCreator('/Avida-ED-Test2/about/digital-evolution', 'df5'),
     exact: true
   },
   {
-    path: '/Avida-ED-test2/about/team',
-    component: ComponentCreator('/Avida-ED-test2/about/team', '018'),
+    path: '/Avida-ED-Test2/about/team',
+    component: ComponentCreator('/Avida-ED-Test2/about/team', '657'),
     exact: true
   },
   {
-    path: '/Avida-ED-test2/about/version-history',
-    component: ComponentCreator('/Avida-ED-test2/about/version-history', '4d5'),
+    path: '/Avida-ED-Test2/about/version-history',
+    component: ComponentCreator('/Avida-ED-Test2/about/version-history', '401'),
     exact: true
   },
   {
-    path: '/Avida-ED-test2/about/vintage-archive',
-    component: ComponentCreator('/Avida-ED-test2/about/vintage-archive', 'e2b'),
+    path: '/Avida-ED-Test2/about/vintage-archive',
+    component: ComponentCreator('/Avida-ED-Test2/about/vintage-archive', '593'),
     exact: true
   },
   {
-    path: '/Avida-ED-test2/app',
-    component: ComponentCreator('/Avida-ED-test2/app', '046'),
+    path: '/Avida-ED-Test2/app',
+    component: ComponentCreator('/Avida-ED-Test2/app', 'daf'),
     exact: true
   },
   {
-    path: '/Avida-ED-test2/download',
-    component: ComponentCreator('/Avida-ED-test2/download', '914'),
+    path: '/Avida-ED-Test2/download',
+    component: ComponentCreator('/Avida-ED-Test2/download', 'd1c'),
     exact: true
   },
   {
-    path: '/Avida-ED-test2/news-archive',
-    component: ComponentCreator('/Avida-ED-test2/news-archive', '1c7'),
+    path: '/Avida-ED-Test2/news-archive',
+    component: ComponentCreator('/Avida-ED-Test2/news-archive', 'c89'),
     exact: true
   },
   {
-    path: '/Avida-ED-test2/support',
-    component: ComponentCreator('/Avida-ED-test2/support', 'be5'),
+    path: '/Avida-ED-Test2/support',
+    component: ComponentCreator('/Avida-ED-Test2/support', '921'),
     exact: true
   },
   {
-    path: '/Avida-ED-test2/docs',
-    component: ComponentCreator('/Avida-ED-test2/docs', '0bd'),
+    path: '/Avida-ED-Test2/docs',
+    component: ComponentCreator('/Avida-ED-Test2/docs', '8cd'),
     routes: [
       {
-        path: '/Avida-ED-test2/docs',
-        component: ComponentCreator('/Avida-ED-test2/docs', 'ab1'),
+        path: '/Avida-ED-Test2/docs',
+        component: ComponentCreator('/Avida-ED-Test2/docs', '9e1'),
         routes: [
           {
-            path: '/Avida-ED-test2/docs',
-            component: ComponentCreator('/Avida-ED-test2/docs', 'cf9'),
+            path: '/Avida-ED-Test2/docs',
+            component: ComponentCreator('/Avida-ED-Test2/docs', '31d'),
             routes: [
               {
-                path: '/Avida-ED-test2/docs/curriculum/',
-                component: ComponentCreator('/Avida-ED-test2/docs/curriculum/', 'b25'),
+                path: '/Avida-ED-Test2/docs/curriculum/',
+                component: ComponentCreator('/Avida-ED-Test2/docs/curriculum/', '137'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
               {
-                path: '/Avida-ED-test2/docs/intro',
-                component: ComponentCreator('/Avida-ED-test2/docs/intro', '4b7'),
+                path: '/Avida-ED-Test2/docs/intro',
+                component: ComponentCreator('/Avida-ED-Test2/docs/intro', '77a'),
                 exact: true,
                 sidebar: "docsSidebar"
               }
@@ -78,8 +78,8 @@ export default [
     ]
   },
   {
-    path: '/Avida-ED-test2/',
-    component: ComponentCreator('/Avida-ED-test2/', '212'),
+    path: '/Avida-ED-Test2/',
+    component: ComponentCreator('/Avida-ED-Test2/', 'aec'),
     exact: true
   },
   {

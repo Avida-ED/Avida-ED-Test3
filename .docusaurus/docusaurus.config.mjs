@@ -8,9 +8,9 @@ export default {
   "tagline": "Digital evolution for education",
   "favicon": "img/favicon.ico",
   "url": "https://avida-ed.github.io",
-  "baseUrl": "/Avida-ED-test2/",
+  "baseUrl": "/Avida-ED-Test2/",
   "organizationName": "Avida-ED",
-  "projectName": "Avida-ED-test2",
+  "projectName": "Avida-ED-Test2",
   "onBrokenLinks": "warn",
   "markdown": {
     "hooks": {

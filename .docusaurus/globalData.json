@@ -1,23 +1,23 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/Avida-ED-test2/docs",
+      "path": "/Avida-ED-Test2/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/Avida-ED-test2/docs",
+          "path": "/Avida-ED-Test2/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "curriculum/index",
-              "path": "/Avida-ED-test2/docs/curriculum/",
+              "path": "/Avida-ED-Test2/docs/curriculum/",
               "sidebar": "docsSidebar"
             },
             {
               "id": "intro",
-              "path": "/Avida-ED-test2/docs/intro",
+              "path": "/Avida-ED-Test2/docs/intro",
               "sidebar": "docsSidebar"
             }
           ],
@@ -25,7 +25,7 @@
           "sidebars": {
             "docsSidebar": {
               "link": {
-                "path": "/Avida-ED-test2/docs/intro",
+                "path": "/Avida-ED-Test2/docs/intro",
                 "label": "Introduction"
               }
             }
