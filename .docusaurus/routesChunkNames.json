@@ -1,136 +1,93 @@
 {
-  "/Avida-ED-test2/__docusaurus/debug-dd4": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---avida-ed-test-2-docusaurus-debugb-38-cd8"
-    }
-  },
-  "/Avida-ED-test2/__docusaurus/debug/config-6e9": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---avida-ed-test-2-docusaurus-debugb-38-cd8"
-    }
-  },
-  "/Avida-ED-test2/__docusaurus/debug/content-f35": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---avida-ed-test-2-docusaurus-debugb-38-cd8"
-    },
-    "__props": "__props---avida-ed-test-2-docusaurus-debug-contenteae-b35"
-  },
-  "/Avida-ED-test2/__docusaurus/debug/globalData-6b2": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---avida-ed-test-2-docusaurus-debugb-38-cd8"
-    }
-  },
-  "/Avida-ED-test2/__docusaurus/debug/metadata-a8e": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---avida-ed-test-2-docusaurus-debugb-38-cd8"
-    }
-  },
-  "/Avida-ED-test2/__docusaurus/debug/registry-dbd": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---avida-ed-test-2-docusaurus-debugb-38-cd8"
-    }
-  },
-  "/Avida-ED-test2/__docusaurus/debug/routes-446": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---avida-ed-test-2-docusaurus-debugb-38-cd8"
-    }
-  },
   "/Avida-ED-test2/about/avida-ed-216": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---avida-ed-test-2-about-avida-eda-74-c40"
+      "plugin": "a7456010"
     },
-    "content": "content---avida-ed-test-2-about-avida-edb-7-d-09f"
+    "content": "b7d8157b"
   },
   "/Avida-ED-test2/about/digital-evolution-f84": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---avida-ed-test-2-about-avida-eda-74-c40"
+      "plugin": "a7456010"
     },
-    "content": "content---avida-ed-test-2-about-digital-evolution-37-c-a72"
+    "content": "37c8f14d"
   },
   "/Avida-ED-test2/about/team-018": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---avida-ed-test-2-about-avida-eda-74-c40"
+      "plugin": "a7456010"
     },
-    "content": "content---avida-ed-test-2-about-team-526-ae5"
+    "content": "52600963"
   },
   "/Avida-ED-test2/about/version-history-4d5": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---avida-ed-test-2-about-avida-eda-74-c40"
+      "plugin": "a7456010"
     },
-    "content": "content---avida-ed-test-2-about-version-history-264-945"
+    "content": "264ddfa3"
   },
   "/Avida-ED-test2/about/vintage-archive-e2b": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---avida-ed-test-2-about-avida-eda-74-c40"
+      "plugin": "a7456010"
     },
-    "content": "content---avida-ed-test-2-about-vintage-archive-228-6b2"
+    "content": "2285909b"
   },
   "/Avida-ED-test2/app-046": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---avida-ed-test-2-about-avida-eda-74-c40"
+      "plugin": "a7456010"
     },
-    "content": "content---avida-ed-test-2-app-1-af-d5b"
+    "content": "1afb6009"
   },
   "/Avida-ED-test2/download-914": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---avida-ed-test-2-about-avida-eda-74-c40"
+      "plugin": "a7456010"
     },
-    "content": "content---avida-ed-test-2-download-209-7d7"
+    "content": "209227ae"
   },
   "/Avida-ED-test2/news-archive-1c7": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---avida-ed-test-2-about-avida-eda-74-c40"
+      "plugin": "a7456010"
     },
-    "content": "content---avida-ed-test-2-news-archiveba-5-a33"
+    "content": "ba5c7e27"
   },
   "/Avida-ED-test2/support-be5": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---avida-ed-test-2-about-avida-eda-74-c40"
+      "plugin": "a7456010"
     },
-    "content": "content---avida-ed-test-2-supportf-2-a-305"
+    "content": "f2afad6f"
   },
   "/Avida-ED-test2/docs-0bd": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---avida-ed-test-2-docsaba-e29"
+      "plugin": "aba21aa0"
     }
   },
   "/Avida-ED-test2/docs-ab1": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---avida-ed-test-2-docsb-1-e-8cd"
+    "__comp": "a7bd4aaa",
+    "__props": "b1e1dcdd"
   },
   "/Avida-ED-test2/docs-cf9": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+    "__comp": "a94703ab"
   },
   "/Avida-ED-test2/docs/curriculum/-b25": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---avida-ed-test-2-docs-curriculum-7-f-0-fb7"
+    "__comp": "17896441",
+    "content": "7f059d58"
   },
   "/Avida-ED-test2/docs/intro-4b7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---avida-ed-test-2-docs-intro-0-e-3-b9e"
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
   "/Avida-ED-test2/-212": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---avida-ed-test-2-about-avida-eda-74-c40"
+      "plugin": "a7456010"
     },
-    "config": "config---avida-ed-test-2-5-e-9-512"
+    "config": "5e9f5e1a"
   }
 }

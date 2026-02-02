@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/Avida-ED-test2/__docusaurus/debug',
-    component: ComponentCreator('/Avida-ED-test2/__docusaurus/debug', 'dd4'),
-    exact: true
-  },
-  {
-    path: '/Avida-ED-test2/__docusaurus/debug/config',
-    component: ComponentCreator('/Avida-ED-test2/__docusaurus/debug/config', '6e9'),
-    exact: true
-  },
-  {
-    path: '/Avida-ED-test2/__docusaurus/debug/content',
-    component: ComponentCreator('/Avida-ED-test2/__docusaurus/debug/content', 'f35'),
-    exact: true
-  },
-  {
-    path: '/Avida-ED-test2/__docusaurus/debug/globalData',
-    component: ComponentCreator('/Avida-ED-test2/__docusaurus/debug/globalData', '6b2'),
-    exact: true
-  },
-  {
-    path: '/Avida-ED-test2/__docusaurus/debug/metadata',
-    component: ComponentCreator('/Avida-ED-test2/__docusaurus/debug/metadata', 'a8e'),
-    exact: true
-  },
-  {
-    path: '/Avida-ED-test2/__docusaurus/debug/registry',
-    component: ComponentCreator('/Avida-ED-test2/__docusaurus/debug/registry', 'dbd'),
-    exact: true
-  },
-  {
-    path: '/Avida-ED-test2/__docusaurus/debug/routes',
-    component: ComponentCreator('/Avida-ED-test2/__docusaurus/debug/routes', '446'),
-    exact: true
-  },
-  {
     path: '/Avida-ED-test2/about/avida-ed',
     component: ComponentCreator('/Avida-ED-test2/about/avida-ed', '216'),
     exact: true

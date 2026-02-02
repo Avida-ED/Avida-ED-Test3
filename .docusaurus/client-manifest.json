@@ -1,0 +1,327 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "237": [
+      237
+    ],
+    "917": [
+      61,
+      401,
+      869,
+      917
+    ],
+    "17896441": [
+      869,
+      917,
+      401
+    ],
+    "52600963": [
+      548
+    ],
+    "main": [
+      354,
+      869,
+      792
+    ],
+    "runtime~main": [
+      792,
+      869,
+      354
+    ],
+    "0e384e19": [
+      976
+    ],
+    "1afb6009": [
+      334
+    ],
+    "1f391b9e": [
+      869,
+      917,
+      61
+    ],
+    "209227ae": [
+      347
+    ],
+    "2285909b": [
+      88
+    ],
+    "264ddfa3": [
+      493
+    ],
+    "37c8f14d": [
+      871
+    ],
+    "5e95c892": [
+      647
+    ],
+    "7f059d58": [
+      245
+    ],
+    "a7456010": [
+      235
+    ],
+    "a7bd4aaa": [
+      98
+    ],
+    "a94703ab": [
+      869,
+      48
+    ],
+    "aba21aa0": [
+      742
+    ],
+    "b1e1dcdd": [
+      626
+    ],
+    "b7d8157b": [
+      219
+    ],
+    "ba5c7e27": [
+      953
+    ],
+    "c4f5d8e4": [
+      634
+    ],
+    "f2afad6f": [
+      381
+    ],
+    "styles": [
+      48,
+      61,
+      354,
+      401,
+      792,
+      917,
+      869
+    ]
+  },
+  "assets": {
+    "48": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.d8c9a544.js",
+          "hash": "ba412df62326e823",
+          "publicPath": "/Avida-ED-test2/assets/js/a94703ab.d8c9a544.js"
+        }
+      ]
+    },
+    "61": {
+      "js": [
+        {
+          "file": "assets/js/1f391b9e.4bb9fc55.js",
+          "hash": "63d33155cbd97894",
+          "publicPath": "/Avida-ED-test2/assets/js/1f391b9e.4bb9fc55.js"
+        }
+      ]
+    },
+    "88": {
+      "js": [
+        {
+          "file": "assets/js/2285909b.42f27cf5.js",
+          "hash": "df9557ce426d4324",
+          "publicPath": "/Avida-ED-test2/assets/js/2285909b.42f27cf5.js"
+        }
+      ]
+    },
+    "98": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.bc1adadd.js",
+          "hash": "cde8e81693ab13d8",
+          "publicPath": "/Avida-ED-test2/assets/js/a7bd4aaa.bc1adadd.js"
+        }
+      ]
+    },
+    "219": {
+      "js": [
+        {
+          "file": "assets/js/b7d8157b.c2348fb3.js",
+          "hash": "a29cc4e73d801ead",
+          "publicPath": "/Avida-ED-test2/assets/js/b7d8157b.c2348fb3.js"
+        }
+      ]
+    },
+    "235": {
+      "js": [
+        {
+          "file": "assets/js/a7456010.c90cf207.js",
+          "hash": "f9db6b291a769c35",
+          "publicPath": "/Avida-ED-test2/assets/js/a7456010.c90cf207.js"
+        }
+      ]
+    },
+    "237": {
+      "js": [
+        {
+          "file": "assets/js/237.66c1a67b.js",
+          "hash": "687f1947f4a84c89",
+          "publicPath": "/Avida-ED-test2/assets/js/237.66c1a67b.js"
+        }
+      ]
+    },
+    "245": {
+      "js": [
+        {
+          "file": "assets/js/7f059d58.a4fd52df.js",
+          "hash": "e69b3246925ee44a",
+          "publicPath": "/Avida-ED-test2/assets/js/7f059d58.a4fd52df.js"
+        }
+      ]
+    },
+    "334": {
+      "js": [
+        {
+          "file": "assets/js/1afb6009.b554ae8c.js",
+          "hash": "d968d87cb02aa91e",
+          "publicPath": "/Avida-ED-test2/assets/js/1afb6009.b554ae8c.js"
+        }
+      ]
+    },
+    "347": {
+      "js": [
+        {
+          "file": "assets/js/209227ae.884c647a.js",
+          "hash": "3d52a4f911810a85",
+          "publicPath": "/Avida-ED-test2/assets/js/209227ae.884c647a.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.f8be2e06.js",
+          "hash": "b355efb3b0976bb3",
+          "publicPath": "/Avida-ED-test2/assets/js/runtime~main.f8be2e06.js"
+        }
+      ]
+    },
+    "381": {
+      "js": [
+        {
+          "file": "assets/js/f2afad6f.5bc62eeb.js",
+          "hash": "32a98cd0447f9e0c",
+          "publicPath": "/Avida-ED-test2/assets/js/f2afad6f.5bc62eeb.js"
+        }
+      ]
+    },
+    "401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.c1b714b2.js",
+          "hash": "b2104fe228f8abeb",
+          "publicPath": "/Avida-ED-test2/assets/js/17896441.c1b714b2.js"
+        }
+      ]
+    },
+    "493": {
+      "js": [
+        {
+          "file": "assets/js/264ddfa3.09b9c9c9.js",
+          "hash": "a24b99eaab27130f",
+          "publicPath": "/Avida-ED-test2/assets/js/264ddfa3.09b9c9c9.js"
+        }
+      ]
+    },
+    "548": {
+      "js": [
+        {
+          "file": "assets/js/52600963.644dedca.js",
+          "hash": "0fd1e1749ea3fc55",
+          "publicPath": "/Avida-ED-test2/assets/js/52600963.644dedca.js"
+        }
+      ]
+    },
+    "626": {
+      "js": [
+        {
+          "file": "assets/js/b1e1dcdd.7bf41e39.js",
+          "hash": "17b153781ab86b77",
+          "publicPath": "/Avida-ED-test2/assets/js/b1e1dcdd.7bf41e39.js"
+        }
+      ]
+    },
+    "634": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.6f4758da.js",
+          "hash": "c9f7d187108e77c3",
+          "publicPath": "/Avida-ED-test2/assets/js/c4f5d8e4.6f4758da.js"
+        }
+      ]
+    },
+    "647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.f4568924.js",
+          "hash": "1f5308e4d1935a9b",
+          "publicPath": "/Avida-ED-test2/assets/js/5e95c892.f4568924.js"
+        }
+      ]
+    },
+    "742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.f24893ec.js",
+          "hash": "3f0602578c22c690",
+          "publicPath": "/Avida-ED-test2/assets/js/aba21aa0.f24893ec.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.a5adb58c.js",
+          "hash": "578018b204ad10f8",
+          "publicPath": "/Avida-ED-test2/assets/js/main.a5adb58c.js"
+        }
+      ]
+    },
+    "869": {
+      "css": [
+        {
+          "file": "assets/css/styles.8fc0cef6.css",
+          "hash": "2397d9454f777266",
+          "publicPath": "/Avida-ED-test2/assets/css/styles.8fc0cef6.css"
+        }
+      ]
+    },
+    "871": {
+      "js": [
+        {
+          "file": "assets/js/37c8f14d.ff6d4b4f.js",
+          "hash": "f25adcadd8c7e016",
+          "publicPath": "/Avida-ED-test2/assets/js/37c8f14d.ff6d4b4f.js"
+        }
+      ]
+    },
+    "917": {
+      "js": [
+        {
+          "file": "assets/js/917.35460423.js",
+          "hash": "c9170c9306242a43",
+          "publicPath": "/Avida-ED-test2/assets/js/917.35460423.js"
+        }
+      ]
+    },
+    "953": {
+      "js": [
+        {
+          "file": "assets/js/ba5c7e27.2debcee8.js",
+          "hash": "dbca648e2b9cda3b",
+          "publicPath": "/Avida-ED-test2/assets/js/ba5c7e27.2debcee8.js"
+        }
+      ]
+    },
+    "976": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.93962442.js",
+          "hash": "16ada00479860880",
+          "publicPath": "/Avida-ED-test2/assets/js/0e384e19.93962442.js"
+        }
+      ]
+    }
+  }
+}
