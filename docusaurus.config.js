@@ -16,7 +16,11 @@ const config = {
   // During stub phase, warnings are less disruptive than hard failures.
   // Flip back to 'throw' when the site is complete.
   onBrokenLinks: 'warn',
-  onBrokenMarkdownLinks: 'warn',
+markdown: {
+  hooks: {
+    onBrokenMarkdownLinks: 'warn',  
+  },
+},
 
   i18n: {
     defaultLocale: 'en',

@@ -9,7 +9,7 @@ export default function Home() {
           <div className="container homeHero__container">
             <img
               className="homeHero__logo"
-              src="/img/avida-ed-logo.png"
+              src="img/avida-ed-logo.png"
               alt="Avida-ED logo"
             />
 

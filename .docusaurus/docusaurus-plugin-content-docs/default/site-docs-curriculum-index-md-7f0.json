@@ -1,0 +1,21 @@
+{
+  "id": "curriculum/index",
+  "title": "Curriculum",
+  "description": "Curriculum content will be added here.",
+  "source": "@site/docs/curriculum/index.md",
+  "sourceDirName": "curriculum",
+  "slug": "/curriculum/",
+  "permalink": "/Avida-ED-test2/docs/curriculum/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Curriculum"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/Avida-ED-test2/docs/intro"
+  }
+}

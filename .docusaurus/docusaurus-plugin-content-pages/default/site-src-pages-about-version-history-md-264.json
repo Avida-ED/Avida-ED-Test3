@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/Avida-ED-test2/about/version-history",
+  "source": "@site/src/pages/about/version-history.md",
+  "title": "Version History",
+  "description": "This page will document the historical releases of Avida-ED.",
+  "frontMatter": {
+    "title": "Version History"
+  },
+  "unlisted": false
+}

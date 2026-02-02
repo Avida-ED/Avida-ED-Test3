@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/Avida-ED-test2/download",
+  "source": "@site/src/pages/download.md",
+  "title": "Download Avida-ED",
+  "description": "This page will host download options for Avida-ED.",
+  "frontMatter": {
+    "title": "Download Avida-ED"
+  },
+  "unlisted": false
+}

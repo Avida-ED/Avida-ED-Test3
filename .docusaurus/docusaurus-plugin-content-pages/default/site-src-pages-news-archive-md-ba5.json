@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/Avida-ED-test2/news-archive",
+  "source": "@site/src/pages/news-archive.md",
+  "title": "News Archive",
+  "description": "This page preserves historical announcements and updates.",
+  "frontMatter": {
+    "title": "News Archive"
+  },
+  "unlisted": false
+}

@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/Avida-ED-test2/support",
+  "source": "@site/src/pages/support.md",
+  "title": "Support",
+  "description": "This page will consolidate support resources for Avida-ED.",
+  "frontMatter": {
+    "title": "Support"
+  },
+  "unlisted": false
+}

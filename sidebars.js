@@ -9,6 +9,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Curriculum',
+      link: { type: 'doc', id: 'curriculum/index' },
       items: [],
     },
   ],

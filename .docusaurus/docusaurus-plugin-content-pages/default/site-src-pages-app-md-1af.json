@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/Avida-ED-test2/app",
+  "source": "@site/src/pages/app.md",
+  "title": "Launch Avida-ED",
+  "description": "This page will provide access to the Avida-ED application.",
+  "frontMatter": {
+    "title": "Launch Avida-ED"
+  },
+  "unlisted": false
+}
