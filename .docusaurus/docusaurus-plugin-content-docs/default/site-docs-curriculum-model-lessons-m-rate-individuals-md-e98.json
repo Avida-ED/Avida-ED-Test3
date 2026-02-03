@@ -1,0 +1,25 @@
+{
+  "id": "curriculum/model-lessons/mRate-individuals",
+  "title": "Exploring the Effects of Mutation Rate on Individuals",
+  "description": "Amy Lark",
+  "source": "@site/docs/curriculum/model-lessons/mRate-individuals.md",
+  "sourceDirName": "curriculum/model-lessons",
+  "slug": "/curriculum/model-lessons/mRate-individuals",
+  "permalink": "/Avida-ED-Test2/docs/curriculum/model-lessons/mRate-individuals",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Exploring the Effects of Mutation Rate on Individuals"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "From Genotype to Phenotype: Understanding the Introduction of Phenotypic Variations",
+    "permalink": "/Avida-ED-Test2/docs/curriculum/model-lessons/genotype-to-phenotype"
+  },
+  "next": {
+    "title": "Exploring the Effects of Mutation Rate on Populations",
+    "permalink": "/Avida-ED-Test2/docs/curriculum/model-lessons/mRate-populations"
+  }
+}

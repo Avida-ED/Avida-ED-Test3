@@ -1,0 +1,26 @@
+{
+  "id": "curriculum/lab-manual/index",
+  "title": "Lab Manual",
+  "description": "The Lab Manual consists of a sequence of structured exercises designed to guide",
+  "source": "@site/docs/curriculum/lab-manual/index.md",
+  "sourceDirName": "curriculum/lab-manual",
+  "slug": "/curriculum/lab-manual/",
+  "permalink": "/Avida-ED-Test2/docs/curriculum/lab-manual/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Lab Manual",
+    "sidebar_label": "Lab Manual"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Quick Start",
+    "permalink": "/Avida-ED-Test2/docs/curriculum/quick-start"
+  },
+  "next": {
+    "title": "Exercise 1",
+    "permalink": "/Avida-ED-Test2/docs/curriculum/lab-manual/exercise-1"
+  }
+}

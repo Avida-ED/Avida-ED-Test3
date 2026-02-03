@@ -1,7 +1,7 @@
 {
   "id": "curriculum/index",
   "title": "Curriculum",
-  "description": "Curriculum content will be added here.",
+  "description": "This curriculum supports classroom and laboratory use of Avida-ED to explore",
   "source": "@site/docs/curriculum/index.md",
   "sourceDirName": "curriculum",
   "slug": "/curriculum/",
@@ -10,12 +10,19 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
+  "sidebarPosition": 1,
   "frontMatter": {
-    "title": "Curriculum"
+    "title": "Curriculum",
+    "sidebar_label": "Curriculum",
+    "sidebar_position": 1
   },
   "sidebar": "docsSidebar",
   "previous": {
     "title": "Introduction",
     "permalink": "/Avida-ED-Test2/docs/intro"
+  },
+  "next": {
+    "title": "Quick Start",
+    "permalink": "/Avida-ED-Test2/docs/curriculum/quick-start"
   }
 }

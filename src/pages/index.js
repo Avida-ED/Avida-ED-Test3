@@ -12,12 +12,15 @@ export default function Home() {
               src="img/avida-ed-logo.png"
               alt="Avida-ED logo"
             />
-
-            <p className="homeHero__blurb">
+<p lassName="homeHero__blurb">
               Avida-ED is an educational software platform that allows students
               to explore evolution by observing populations of self-replicating
               digital organisms. It is widely used in biology classrooms to
               demonstrate core evolutionary concepts through hands-on inquiry.
+
+</p>            <p className="homeHero__blurb">
+Avida-ED is an award-winning educational application developed at Michigan State University for undergraduate biology courses. Researchers and educators designed Avida-ED to help students learn about evolution and scientific methods by allowing them to design and perform experiments to test hypotheses about evolutionary mechanisms using evolving digital organisms.            
+            
             </p>
 
             <div className="homeHero__videoWrap" aria-label="Avida-ED overview video">

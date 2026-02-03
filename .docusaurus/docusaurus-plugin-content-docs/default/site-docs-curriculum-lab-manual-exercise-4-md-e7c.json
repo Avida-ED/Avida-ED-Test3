@@ -1,0 +1,25 @@
+{
+  "id": "curriculum/lab-manual/exercise-4",
+  "title": "Exercise 4",
+  "description": "Overview:",
+  "source": "@site/docs/curriculum/lab-manual/exercise-4.md",
+  "sourceDirName": "curriculum/lab-manual",
+  "slug": "/curriculum/lab-manual/exercise-4",
+  "permalink": "/Avida-ED-Test2/docs/curriculum/lab-manual/exercise-4",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Exercise 4"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Exercise 3",
+    "permalink": "/Avida-ED-Test2/docs/curriculum/lab-manual/exercise-3"
+  },
+  "next": {
+    "title": "Independent Research Project",
+    "permalink": "/Avida-ED-Test2/docs/curriculum/lab-manual/independent-research-project"
+  }
+}

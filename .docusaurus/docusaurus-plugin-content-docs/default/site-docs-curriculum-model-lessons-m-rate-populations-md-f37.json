@@ -1,0 +1,25 @@
+{
+  "id": "curriculum/model-lessons/mRate-populations",
+  "title": "Exploring the Effects of Mutation Rate on Populations",
+  "description": "James Smith & Amy Lark",
+  "source": "@site/docs/curriculum/model-lessons/mRate-populations.md",
+  "sourceDirName": "curriculum/model-lessons",
+  "slug": "/curriculum/model-lessons/mRate-populations",
+  "permalink": "/Avida-ED-Test2/docs/curriculum/model-lessons/mRate-populations",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Exploring the Effects of Mutation Rate on Populations"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Exploring the Effects of Mutation Rate on Individuals",
+    "permalink": "/Avida-ED-Test2/docs/curriculum/model-lessons/mRate-individuals"
+  },
+  "next": {
+    "title": "Artificial Selection: Evolution in Practice",
+    "permalink": "/Avida-ED-Test2/docs/curriculum/model-lessons/artificial-selection"
+  }
+}

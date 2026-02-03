@@ -63,3 +63,60 @@
     font-size: 1.05rem;
   }
 }
+/* -------------------------
+   MSU colors
+   ------------------------- */
+
+  /* Primary brand color (MSU Green) 
+  --ifm-color-primary: #18453b;
+  --ifm-color-primary-dark: #143b32;
+  --ifm-color-primary-darker: #12352d;
+  --ifm-color-primary-light: #1d5a4d;
+  --ifm-color-primary-lighter: #22685a;
+*/
+:root {
+  /* Primary brand color — lightened MSU Green */
+  --ifm-color-primary: #1d5a4d;        /* lighter than #18453b */
+  --ifm-color-primary-dark: #184c41;
+  --ifm-color-primary-darker: #16453b;
+  --ifm-color-primary-light: #22685a;
+  --ifm-color-primary-lighter: #2a7767;
+
+  /* Typography */
+  --ifm-font-family-base: system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
+  /* Backgrounds */
+  --ifm-background-color: #ffffff;
+  --ifm-background-surface-color: #f8f9f8;
+
+  /* UI neutrals */
+  --ifm-color-content: #1c1e21;
+  --ifm-color-content-secondary: #5c6066;
+
+  /* Links */
+  --ifm-link-color: var(--ifm-color-primary);
+  --ifm-link-hover-color: #0f2f29;
+
+  /* Code blocks (subtle, not loud) */
+  --ifm-code-background: #f3f4f4;
+}
+
+/* -------------------------
+    theme modifications. 
+   ------------------------- */
+
+
+.navbar {
+  border-bottom: 2px solid var(--ifm-color-primary);
+}
+
+.button.button--primary {
+  color: #ffffff;
+}
+
+/************************************************** screen width adjustments **/
+
+
+/*--------------------------------------------  end screen width adjustments **/
+/******************************************************************************/

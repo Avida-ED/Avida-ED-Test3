@@ -1,0 +1,25 @@
+{
+  "id": "curriculum/model-lessons/genotype-to-phenotype",
+  "title": "From Genotype to Phenotype: Understanding the Introduction of Phenotypic Variations",
+  "description": "Robert T. Pennock",
+  "source": "@site/docs/curriculum/model-lessons/genotype-to-phenotype.md",
+  "sourceDirName": "curriculum/model-lessons",
+  "slug": "/curriculum/model-lessons/genotype-to-phenotype",
+  "permalink": "/Avida-ED-Test2/docs/curriculum/model-lessons/genotype-to-phenotype",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "From Genotype to Phenotype: Understanding the Introduction of Phenotypic Variations"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Understanding the Introduction of Genetic Variations by Random Mutation",
+    "permalink": "/Avida-ED-Test2/docs/curriculum/model-lessons/genetic-variations"
+  },
+  "next": {
+    "title": "Exploring the Effects of Mutation Rate on Individuals",
+    "permalink": "/Avida-ED-Test2/docs/curriculum/model-lessons/mRate-individuals"
+  }
+}

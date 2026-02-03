@@ -1,0 +1,25 @@
+{
+  "id": "curriculum/lab-manual/independent-research-project",
+  "title": "Experimental Evolution Project with Evolving Digital Organisms",
+  "description": "Students formulate a question, design experiments, collect data, and interpret results.",
+  "source": "@site/docs/curriculum/lab-manual/independent-research-project.md",
+  "sourceDirName": "curriculum/lab-manual",
+  "slug": "/curriculum/lab-manual/independent-research-project",
+  "permalink": "/Avida-ED-Test2/docs/curriculum/lab-manual/independent-research-project",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Experimental Evolution Project with Evolving Digital Organisms"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Exercise 4",
+    "permalink": "/Avida-ED-Test2/docs/curriculum/lab-manual/exercise-4"
+  },
+  "next": {
+    "title": "Model Lessons",
+    "permalink": "/Avida-ED-Test2/docs/curriculum/model-lessons/"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "curriculum/quick-start",
+  "title": "Quick Start",
+  "description": "This section provides the fastest route to a successful first classroom activity",
+  "source": "@site/docs/curriculum/quick-start.md",
+  "sourceDirName": "curriculum",
+  "slug": "/curriculum/quick-start",
+  "permalink": "/Avida-ED-Test2/docs/curriculum/quick-start",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Quick Start"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Curriculum",
+    "permalink": "/Avida-ED-Test2/docs/curriculum/"
+  },
+  "next": {
+    "title": "Lab Manual",
+    "permalink": "/Avida-ED-Test2/docs/curriculum/lab-manual/"
+  }
+}

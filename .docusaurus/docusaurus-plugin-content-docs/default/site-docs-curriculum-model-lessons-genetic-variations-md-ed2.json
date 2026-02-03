@@ -1,0 +1,25 @@
+{
+  "id": "curriculum/model-lessons/genetic-variations",
+  "title": "Understanding the Introduction of Genetic Variations by Random Mutation",
+  "description": "Robert T. Pennock & Amy Lark",
+  "source": "@site/docs/curriculum/model-lessons/genetic-variations.md",
+  "sourceDirName": "curriculum/model-lessons",
+  "slug": "/curriculum/model-lessons/genetic-variations",
+  "permalink": "/Avida-ED-Test2/docs/curriculum/model-lessons/genetic-variations",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Understanding the Introduction of Genetic Variations by Random Mutation"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Model Lessons",
+    "permalink": "/Avida-ED-Test2/docs/curriculum/model-lessons/"
+  },
+  "next": {
+    "title": "From Genotype to Phenotype: Understanding the Introduction of Phenotypic Variations",
+    "permalink": "/Avida-ED-Test2/docs/curriculum/model-lessons/genotype-to-phenotype"
+  }
+}

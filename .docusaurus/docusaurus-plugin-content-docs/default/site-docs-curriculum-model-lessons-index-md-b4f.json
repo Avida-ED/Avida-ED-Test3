@@ -1,0 +1,26 @@
+{
+  "id": "curriculum/model-lessons/index",
+  "title": "Model Lessons",
+  "description": "PLEASE NOTE: These exercises were designed for use with the Avida-ED 1.0 and 2.0 application. They have not yet been updated for the new Avida-ED 3.0 web application. They can still be used in Avida-ED 3.0, but screenshots and some interface descriptions will differ slightly (e.g. metabolic rate has been retitled ‘energy acquisition rate’). When we have completed updates, they will be posted here and these earlier versions will be placed in an archive.",
+  "source": "@site/docs/curriculum/model-lessons/index.md",
+  "sourceDirName": "curriculum/model-lessons",
+  "slug": "/curriculum/model-lessons/",
+  "permalink": "/Avida-ED-Test2/docs/curriculum/model-lessons/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Model Lessons",
+    "sidebar_label": "Model Lessons"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Independent Research Project",
+    "permalink": "/Avida-ED-Test2/docs/curriculum/lab-manual/independent-research-project"
+  },
+  "next": {
+    "title": "Understanding the Introduction of Genetic Variations by Random Mutation",
+    "permalink": "/Avida-ED-Test2/docs/curriculum/model-lessons/genetic-variations"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "curriculum/lab-manual/exercise-3",
+  "title": "Exercise 3",
+  "description": "Overview:",
+  "source": "@site/docs/curriculum/lab-manual/exercise-3.md",
+  "sourceDirName": "curriculum/lab-manual",
+  "slug": "/curriculum/lab-manual/exercise-3",
+  "permalink": "/Avida-ED-Test2/docs/curriculum/lab-manual/exercise-3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Exercise 3"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Exercise 2",
+    "permalink": "/Avida-ED-Test2/docs/curriculum/lab-manual/exercise-2"
+  },
+  "next": {
+    "title": "Exercise 4",
+    "permalink": "/Avida-ED-Test2/docs/curriculum/lab-manual/exercise-4"
+  }
+}

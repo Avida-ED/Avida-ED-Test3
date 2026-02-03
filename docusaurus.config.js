@@ -65,12 +65,13 @@ markdown: {
             ],
           },
 
-          { label: 'Curriculum', to: '/docs/category/curriculum' },
+          { label: 'Curriculum', to: '/docs/curriculum' },
 
           {
             label: 'About',
             items: [
               { label: 'Avida-ED', to: '/about/avida-ed' },
+              { label: 'News Archive', to: '/news-archive' },
               { label: 'Digital Evolution', to: '/about/digital-evolution' },
               { label: 'Version History', to: '/about/version-history' },
               { label: 'Vintage Archive', to: '/about/vintage-archive' },
@@ -78,16 +79,21 @@ markdown: {
             ],
           },
 
-          { label: 'News Archive', to: '/news-archive' },
-
           { label: 'Support', to: '/support' },
 
           {
-            label: 'Launch',
-            to: '/app',
+            label: 'Avida-ED4',
+            href: 'https://avida-ed.github.io/Avida-ED4/',
             position: 'right',
             className: 'button button--primary',
           },
+          {
+            label: 'Avida-ED3',
+            href: 'https://avida-ed.github.io/Avida-ED3/AvidaED.html',
+            position: 'right',
+            className: 'button button--secondary',
+          },
+          
         ],
       },
 

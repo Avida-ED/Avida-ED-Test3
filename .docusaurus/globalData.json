@@ -16,6 +16,81 @@
               "sidebar": "docsSidebar"
             },
             {
+              "id": "curriculum/lab-manual/exercise-1",
+              "path": "/Avida-ED-Test2/docs/curriculum/lab-manual/exercise-1",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "curriculum/lab-manual/exercise-2",
+              "path": "/Avida-ED-Test2/docs/curriculum/lab-manual/exercise-2",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "curriculum/lab-manual/exercise-3",
+              "path": "/Avida-ED-Test2/docs/curriculum/lab-manual/exercise-3",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "curriculum/lab-manual/exercise-4",
+              "path": "/Avida-ED-Test2/docs/curriculum/lab-manual/exercise-4",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "curriculum/lab-manual/independent-research-project",
+              "path": "/Avida-ED-Test2/docs/curriculum/lab-manual/independent-research-project",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "curriculum/lab-manual/index",
+              "path": "/Avida-ED-Test2/docs/curriculum/lab-manual/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "curriculum/model-lessons/artificial-selection",
+              "path": "/Avida-ED-Test2/docs/curriculum/model-lessons/artificial-selection",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "curriculum/model-lessons/ex-evolve-project",
+              "path": "/Avida-ED-Test2/docs/curriculum/model-lessons/ex-evolve-project",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "curriculum/model-lessons/exploring-selection",
+              "path": "/Avida-ED-Test2/docs/curriculum/model-lessons/exploring-selection",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "curriculum/model-lessons/genetic-variations",
+              "path": "/Avida-ED-Test2/docs/curriculum/model-lessons/genetic-variations",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "curriculum/model-lessons/genotype-to-phenotype",
+              "path": "/Avida-ED-Test2/docs/curriculum/model-lessons/genotype-to-phenotype",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "curriculum/model-lessons/index",
+              "path": "/Avida-ED-Test2/docs/curriculum/model-lessons/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "curriculum/model-lessons/mRate-individuals",
+              "path": "/Avida-ED-Test2/docs/curriculum/model-lessons/mRate-individuals",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "curriculum/model-lessons/mRate-populations",
+              "path": "/Avida-ED-Test2/docs/curriculum/model-lessons/mRate-populations",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "curriculum/quick-start",
+              "path": "/Avida-ED-Test2/docs/curriculum/quick-start",
+              "sidebar": "docsSidebar"
+            },
+            {
               "id": "intro",
               "path": "/Avida-ED-Test2/docs/intro",
               "sidebar": "docsSidebar"

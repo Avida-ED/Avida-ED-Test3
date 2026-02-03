@@ -1,0 +1,25 @@
+{
+  "id": "curriculum/model-lessons/artificial-selection",
+  "title": "Artificial Selection: Evolution in Practice",
+  "description": "Rett Weber, Wendy Johnson & Amy Lark",
+  "source": "@site/docs/curriculum/model-lessons/artificial-selection.md",
+  "sourceDirName": "curriculum/model-lessons",
+  "slug": "/curriculum/model-lessons/artificial-selection",
+  "permalink": "/Avida-ED-Test2/docs/curriculum/model-lessons/artificial-selection",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Artificial Selection: Evolution in Practice"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Exploring the Effects of Mutation Rate on Populations",
+    "permalink": "/Avida-ED-Test2/docs/curriculum/model-lessons/mRate-populations"
+  },
+  "next": {
+    "title": "Exploring Selection and Fitness",
+    "permalink": "/Avida-ED-Test2/docs/curriculum/model-lessons/exploring-selection"
+  }
+}

@@ -49,19 +49,109 @@ export default [
   },
   {
     path: '/Avida-ED-Test2/docs',
-    component: ComponentCreator('/Avida-ED-Test2/docs', '8cd'),
+    component: ComponentCreator('/Avida-ED-Test2/docs', 'a73'),
     routes: [
       {
         path: '/Avida-ED-Test2/docs',
-        component: ComponentCreator('/Avida-ED-Test2/docs', '9e1'),
+        component: ComponentCreator('/Avida-ED-Test2/docs', 'e3d'),
         routes: [
           {
             path: '/Avida-ED-Test2/docs',
-            component: ComponentCreator('/Avida-ED-Test2/docs', '31d'),
+            component: ComponentCreator('/Avida-ED-Test2/docs', '777'),
             routes: [
               {
                 path: '/Avida-ED-Test2/docs/curriculum/',
                 component: ComponentCreator('/Avida-ED-Test2/docs/curriculum/', '137'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/Avida-ED-Test2/docs/curriculum/lab-manual/',
+                component: ComponentCreator('/Avida-ED-Test2/docs/curriculum/lab-manual/', 'e73'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/Avida-ED-Test2/docs/curriculum/lab-manual/exercise-1',
+                component: ComponentCreator('/Avida-ED-Test2/docs/curriculum/lab-manual/exercise-1', 'e57'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/Avida-ED-Test2/docs/curriculum/lab-manual/exercise-2',
+                component: ComponentCreator('/Avida-ED-Test2/docs/curriculum/lab-manual/exercise-2', 'ab1'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/Avida-ED-Test2/docs/curriculum/lab-manual/exercise-3',
+                component: ComponentCreator('/Avida-ED-Test2/docs/curriculum/lab-manual/exercise-3', '56b'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/Avida-ED-Test2/docs/curriculum/lab-manual/exercise-4',
+                component: ComponentCreator('/Avida-ED-Test2/docs/curriculum/lab-manual/exercise-4', '02c'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/Avida-ED-Test2/docs/curriculum/lab-manual/independent-research-project',
+                component: ComponentCreator('/Avida-ED-Test2/docs/curriculum/lab-manual/independent-research-project', 'd91'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/Avida-ED-Test2/docs/curriculum/model-lessons/',
+                component: ComponentCreator('/Avida-ED-Test2/docs/curriculum/model-lessons/', 'e43'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/Avida-ED-Test2/docs/curriculum/model-lessons/artificial-selection',
+                component: ComponentCreator('/Avida-ED-Test2/docs/curriculum/model-lessons/artificial-selection', '651'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/Avida-ED-Test2/docs/curriculum/model-lessons/ex-evolve-project',
+                component: ComponentCreator('/Avida-ED-Test2/docs/curriculum/model-lessons/ex-evolve-project', 'c59'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/Avida-ED-Test2/docs/curriculum/model-lessons/exploring-selection',
+                component: ComponentCreator('/Avida-ED-Test2/docs/curriculum/model-lessons/exploring-selection', '284'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/Avida-ED-Test2/docs/curriculum/model-lessons/genetic-variations',
+                component: ComponentCreator('/Avida-ED-Test2/docs/curriculum/model-lessons/genetic-variations', '5f6'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/Avida-ED-Test2/docs/curriculum/model-lessons/genotype-to-phenotype',
+                component: ComponentCreator('/Avida-ED-Test2/docs/curriculum/model-lessons/genotype-to-phenotype', '6aa'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/Avida-ED-Test2/docs/curriculum/model-lessons/mRate-individuals',
+                component: ComponentCreator('/Avida-ED-Test2/docs/curriculum/model-lessons/mRate-individuals', '14e'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/Avida-ED-Test2/docs/curriculum/model-lessons/mRate-populations',
+                component: ComponentCreator('/Avida-ED-Test2/docs/curriculum/model-lessons/mRate-populations', '045'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/Avida-ED-Test2/docs/curriculum/quick-start',
+                component: ComponentCreator('/Avida-ED-Test2/docs/curriculum/quick-start', '4c2'),
                 exact: true,
                 sidebar: "docsSidebar"
               },

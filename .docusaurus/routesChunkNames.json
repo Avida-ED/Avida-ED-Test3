@@ -62,22 +62,82 @@
     },
     "content": "f2afad6f"
   },
-  "/Avida-ED-Test2/docs-8cd": {
+  "/Avida-ED-Test2/docs-a73": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/Avida-ED-Test2/docs-9e1": {
+  "/Avida-ED-Test2/docs-e3d": {
     "__comp": "a7bd4aaa",
     "__props": "31ba36d7"
   },
-  "/Avida-ED-Test2/docs-31d": {
+  "/Avida-ED-Test2/docs-777": {
     "__comp": "a94703ab"
   },
   "/Avida-ED-Test2/docs/curriculum/-137": {
     "__comp": "17896441",
     "content": "7f059d58"
+  },
+  "/Avida-ED-Test2/docs/curriculum/lab-manual/-e73": {
+    "__comp": "17896441",
+    "content": "02359183"
+  },
+  "/Avida-ED-Test2/docs/curriculum/lab-manual/exercise-1-e57": {
+    "__comp": "17896441",
+    "content": "5e88a8a9"
+  },
+  "/Avida-ED-Test2/docs/curriculum/lab-manual/exercise-2-ab1": {
+    "__comp": "17896441",
+    "content": "9c010722"
+  },
+  "/Avida-ED-Test2/docs/curriculum/lab-manual/exercise-3-56b": {
+    "__comp": "17896441",
+    "content": "01442384"
+  },
+  "/Avida-ED-Test2/docs/curriculum/lab-manual/exercise-4-02c": {
+    "__comp": "17896441",
+    "content": "e7caa126"
+  },
+  "/Avida-ED-Test2/docs/curriculum/lab-manual/independent-research-project-d91": {
+    "__comp": "17896441",
+    "content": "51576759"
+  },
+  "/Avida-ED-Test2/docs/curriculum/model-lessons/-e43": {
+    "__comp": "17896441",
+    "content": "b4f9ea03"
+  },
+  "/Avida-ED-Test2/docs/curriculum/model-lessons/artificial-selection-651": {
+    "__comp": "17896441",
+    "content": "96b4e26a"
+  },
+  "/Avida-ED-Test2/docs/curriculum/model-lessons/ex-evolve-project-c59": {
+    "__comp": "17896441",
+    "content": "a87fbedf"
+  },
+  "/Avida-ED-Test2/docs/curriculum/model-lessons/exploring-selection-284": {
+    "__comp": "17896441",
+    "content": "bf71e788"
+  },
+  "/Avida-ED-Test2/docs/curriculum/model-lessons/genetic-variations-5f6": {
+    "__comp": "17896441",
+    "content": "ed28d487"
+  },
+  "/Avida-ED-Test2/docs/curriculum/model-lessons/genotype-to-phenotype-6aa": {
+    "__comp": "17896441",
+    "content": "3182241e"
+  },
+  "/Avida-ED-Test2/docs/curriculum/model-lessons/mRate-individuals-14e": {
+    "__comp": "17896441",
+    "content": "e981d0f1"
+  },
+  "/Avida-ED-Test2/docs/curriculum/model-lessons/mRate-populations-045": {
+    "__comp": "17896441",
+    "content": "f37b39cd"
+  },
+  "/Avida-ED-Test2/docs/curriculum/quick-start-4c2": {
+    "__comp": "17896441",
+    "content": "5ffac336"
   },
   "/Avida-ED-Test2/docs/intro-77a": {
     "__comp": "17896441",

@@ -1,0 +1,21 @@
+{
+  "id": "curriculum/model-lessons/ex-evolve-project",
+  "title": "Experimental Evolution Project with Evolving Digital Organisms",
+  "description": "Robert T. Pennock & Amy Lark",
+  "source": "@site/docs/curriculum/model-lessons/ex-evolve-project.md",
+  "sourceDirName": "curriculum/model-lessons",
+  "slug": "/curriculum/model-lessons/ex-evolve-project",
+  "permalink": "/Avida-ED-Test2/docs/curriculum/model-lessons/ex-evolve-project",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Experimental Evolution Project with Evolving Digital Organisms"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Exploring Selection and Fitness",
+    "permalink": "/Avida-ED-Test2/docs/curriculum/model-lessons/exploring-selection"
+  }
+}

@@ -85,7 +85,7 @@ export default {
         },
         {
           "label": "Curriculum",
-          "to": "/docs/category/curriculum",
+          "to": "/docs/curriculum",
           "position": "left"
         },
         {
@@ -94,6 +94,10 @@ export default {
             {
               "label": "Avida-ED",
               "to": "/about/avida-ed"
+            },
+            {
+              "label": "News Archive",
+              "to": "/news-archive"
             },
             {
               "label": "Digital Evolution",
@@ -115,20 +119,21 @@ export default {
           "position": "left"
         },
         {
-          "label": "News Archive",
-          "to": "/news-archive",
-          "position": "left"
-        },
-        {
           "label": "Support",
           "to": "/support",
           "position": "left"
         },
         {
-          "label": "Launch",
-          "to": "/app",
+          "label": "Avida-ED4",
+          "href": "https://avida-ed.github.io/Avida-ED4/",
           "position": "right",
           "className": "button button--primary"
+        },
+        {
+          "label": "Avida-ED3",
+          "href": "https://avida-ed.github.io/Avida-ED3/AvidaED.html",
+          "position": "right",
+          "className": "button button--secondary"
         }
       ],
       "hideOnScroll": false
