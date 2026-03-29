@@ -6,6 +6,14 @@ sidebar_position: 1
 
 This section is the instructor-facing curriculum hub for teaching with Avida-ED.
 
+<nav className="pageSubnav" aria-label="Curriculum page sections">
+  <a href="#curriculum-components">Components</a>
+  <a href="#how-to-choose-a-path">Choose a Path</a>
+  <a href="#recommended-starting-point">Starting Point</a>
+  <a href="#what-this-section-carries-forward">Legacy Material</a>
+  <a href="#teaching-emphasis">Teaching Emphasis</a>
+</nav>
+
 ## Curriculum components
 
 - **Planning and background**
