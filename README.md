@@ -26,6 +26,9 @@ For media-to-transcript migration work, see
 The detailed remaining process document is at
 [scripts/VIDEO_PROCESS.md](/mnt/CIFS/pengolodh/Docs/Projects/genai/codex-projects/web-avida-ed-codex/Avida-ED-Test3/scripts/VIDEO_PROCESS.md).
 
+For repo promotion and GitHub setup steps, see
+[REPO_PROMOTION_PROCESS.md](/mnt/CIFS/pengolodh/Docs/Projects/genai/codex-projects/web-avida-ed-codex/Avida-ED-Test3/REPO_PROMOTION_PROCESS.md).
+
 The local workflow now has two stages:
 
 - `scripts/transcribe_media.py` for media-to-draft transcript generation

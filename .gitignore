@@ -1,15 +1,33 @@
-# Node
+# Dependencies
 node_modules/
 
-# Docusaurus build output
+# Docusaurus and build output
+.docusaurus/
 build/
+.cache/
 
 # Local env files
 .env
 .env.*
+
+# Package manager logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
 
 # OS/editor noise
 .DS_Store
 Thumbs.db
 .vscode/
 .idea/
+*~
+
+# Video transcript workspace
+transcripts/
+
+# Python/script ephemera
+scripts/__pycache__/
+__pycache__/
+*.pyc
+*.pyo
