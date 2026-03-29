@@ -15,30 +15,6 @@ export default function Home() {
                   alt="Avida-ED logo"
                 />
                 <h1 className="homeHero__title">Digital evolution for teaching and learning</h1>
-                <p className="homeHero__blurb">
-                  Avida-ED helps students investigate evolution by working with
-                  populations of self-replicating digital organisms. It is designed
-                  for teaching core ideas such as mutation, inheritance, adaptation,
-                  selection, and the practice of scientific inquiry.
-                </p>
-                <p className="homeHero__blurb">
-                  This site is organized for classroom use first. Students can find
-                  launch guidance and learning materials quickly, while instructors
-                  can move directly to curriculum, lesson sequencing, and support
-                  resources for teaching with Avida-ED.
-                </p>
-
-                <div className="homeHero__links" aria-label="Quick links">
-                  <a className="homeHero__link" href="/Avida-ED-Test3/app">
-                    Launch Avida-ED 4
-                  </a>
-                  <a className="homeHero__link" href="/Avida-ED-Test3/docs/students">
-                    Student materials
-                  </a>
-                  <a className="homeHero__link" href="/Avida-ED-Test3/docs/instructors">
-                    Instructor materials
-                  </a>
-                </div>
               </div>
 
               <div className="homeHero__videoBand">
@@ -51,6 +27,33 @@ export default function Home() {
                     allowFullScreen
                   />
                 </div>
+              </div>
+            </div>
+
+            <div className="contentColumn homeHero__body">
+              <p className="homeHero__blurb">
+                Avida-ED helps students investigate evolution by working with
+                populations of self-replicating digital organisms. It is designed
+                for teaching core ideas such as mutation, inheritance, adaptation,
+                selection, and the practice of scientific inquiry.
+              </p>
+              <p className="homeHero__blurb">
+                This site is organized for classroom use first. Students can find
+                launch guidance and learning materials quickly, while instructors
+                can move directly to curriculum, lesson sequencing, and support
+                resources for teaching with Avida-ED.
+              </p>
+
+              <div className="homeHero__links" aria-label="Quick links">
+                <a className="homeHero__link" href="/Avida-ED-Test3/app">
+                  Launch Avida-ED 4
+                </a>
+                <a className="homeHero__link" href="/Avida-ED-Test3/docs/students">
+                  Student materials
+                </a>
+                <a className="homeHero__link" href="/Avida-ED-Test3/docs/instructors">
+                  Instructor materials
+                </a>
               </div>
             </div>
           </div>
