@@ -7,48 +7,50 @@ export default function Home() {
       <main>
         <section className="homeHero">
           <div className="container homeHero__container">
-            <div className="homeHero__intro">
-              <img
-                className="homeHero__logo"
-                src="img/avida-ed-logo.png"
-                alt="Avida-ED logo"
-              />
-              <h1 className="homeHero__title">Digital evolution for teaching and learning</h1>
-              <p className="homeHero__blurb">
-                Avida-ED helps students investigate evolution by working with
-                populations of self-replicating digital organisms. It is designed
-                for teaching core ideas such as mutation, inheritance, adaptation,
-                selection, and the practice of scientific inquiry.
-              </p>
-              <p className="homeHero__blurb">
-                This site is organized for classroom use first. Students can find
-                launch guidance and learning materials quickly, while instructors
-                can move directly to curriculum, lesson sequencing, and support
-                resources for teaching with Avida-ED.
-              </p>
-
-              <div className="homeHero__links" aria-label="Quick links">
-                <a className="homeHero__link" href="/Avida-ED-Test3/app">
-                  Launch Avida-ED 4
-                </a>
-                <a className="homeHero__link" href="/Avida-ED-Test3/curriculum/students">
-                  Student materials
-                </a>
-                <a className="homeHero__link" href="/Avida-ED-Test3/docs/instructors">
-                  Instructor materials
-                </a>
-              </div>
-            </div>
-
-            <div className="homeHero__videoBand">
-              <div className="homeHero__videoWrap" aria-label="Avida-ED overview video">
-                <iframe
-                  className="homeHero__video"
-                  src="https://cdnapisec.kaltura.com/p/811482/sp/81148200/embedIframeJs/uiconf_id/27551951/partner_id/811482?iframeembed=true&amp;playerId=kaltura_player&amp;entry_id=1_rdyd9cnv&amp;flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;&amp;wid=1_jhy13lc6"
-                  title="Avida-ED Overview Video"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                  allowFullScreen
+            <div className="homeHero__top">
+              <div className="homeHero__intro">
+                <img
+                  className="homeHero__logo"
+                  src="img/avida-ed-logo.png"
+                  alt="Avida-ED logo"
                 />
+                <h1 className="homeHero__title">Digital evolution for teaching and learning</h1>
+                <p className="homeHero__blurb">
+                  Avida-ED helps students investigate evolution by working with
+                  populations of self-replicating digital organisms. It is designed
+                  for teaching core ideas such as mutation, inheritance, adaptation,
+                  selection, and the practice of scientific inquiry.
+                </p>
+                <p className="homeHero__blurb">
+                  This site is organized for classroom use first. Students can find
+                  launch guidance and learning materials quickly, while instructors
+                  can move directly to curriculum, lesson sequencing, and support
+                  resources for teaching with Avida-ED.
+                </p>
+
+                <div className="homeHero__links" aria-label="Quick links">
+                  <a className="homeHero__link" href="/Avida-ED-Test3/app">
+                    Launch Avida-ED 4
+                  </a>
+                  <a className="homeHero__link" href="/Avida-ED-Test3/docs/students">
+                    Student materials
+                  </a>
+                  <a className="homeHero__link" href="/Avida-ED-Test3/docs/instructors">
+                    Instructor materials
+                  </a>
+                </div>
+              </div>
+
+              <div className="homeHero__videoBand">
+                <div className="homeHero__videoWrap" aria-label="Avida-ED overview video">
+                  <iframe
+                    className="homeHero__video"
+                    src="https://cdnapisec.kaltura.com/p/811482/sp/81148200/embedIframeJs/uiconf_id/27551951/partner_id/811482?iframeembed=true&amp;playerId=kaltura_player&amp;entry_id=1_rdyd9cnv&amp;flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;&amp;wid=1_jhy13lc6"
+                    title="Avida-ED Overview Video"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowFullScreen
+                  />
+                </div>
               </div>
             </div>
           </div>
