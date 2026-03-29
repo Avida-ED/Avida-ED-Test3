@@ -51,7 +51,7 @@ export default function Home() {
                 <a className="homeHero__link" href="/Avida-ED-Test3/docs/students">
                   Student materials
                 </a>
-                <a className="homeHero__link" href="/Avida-ED-Test3/docs/instructors">
+                <a className="homeHero__link" href="/Avida-ED-Test3/curriculum">
                   Instructor materials
                 </a>
               </div>

@@ -29,7 +29,7 @@ page content toward:
 
 - [Launch Avida-ED](/app)
 - [For Students](/docs/students)
-- [For Instructors](/docs/instructors)
+- [For Instructors](/curriculum)
 - [Support](/docs/support)
 
 ## Use with care

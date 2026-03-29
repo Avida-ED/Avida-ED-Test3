@@ -49,6 +49,6 @@ The cleanest classroom path is:
 If you are planning a course activity, the fastest path is:
 
 1. Launch the app and confirm it runs on your classroom devices.
-2. Review the [instructor curriculum hub](/docs/instructors).
-3. Send students to the [student materials](/curriculum/students) page for the
+2. Review the [instructor curriculum hub](/curriculum).
+3. Send students to the [student materials](/getstarted/students) page for the
    learner-facing orientation.

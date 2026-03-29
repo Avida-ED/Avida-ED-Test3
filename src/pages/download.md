@@ -62,5 +62,5 @@ presented as secondary to the browser-based launch workflow.
 
 - [Launch Avida-ED](/app)
 - [For Students](/docs/students)
-- [For Instructors](/docs/instructors)
+- [For Instructors](/curriculum)
 - [Vintage Archive](/about/vintage-archive)

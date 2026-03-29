@@ -38,6 +38,6 @@ The older site paired this page with project publications and background
 readings on pedagogy, digital evolution, and the research platform underlying
 Avida-ED. The current site keeps that role in:
 
-- [Instructor Publications](/docs/instructors/publications)
+- [Instructor Publications](/curriculum/publications)
 - [What Is Avida-ED?](/about/avida-ed)
-- [For Instructors](/docs/instructors)
+- [For Instructors](/curriculum)

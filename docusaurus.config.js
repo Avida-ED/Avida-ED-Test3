@@ -66,8 +66,8 @@ markdown: {
             label: 'Get Started',
             items: [
               { label: 'Launch Avida-ED 4', to: '/app' },
-              { label: 'For Students', to: '/curriculum/students' },
-              { label: 'For Instructors', to: '/docs/instructors' },
+              { label: 'For Students', to: '/getstarted/students' },
+              { label: 'For Instructors', to: '/getstarted/instructors' },
               { label: 'Download / Offline', to: '/download' },
             ],
           },
@@ -75,7 +75,7 @@ markdown: {
           { label: 'Curriculum',
             items: [
               { label: 'For Students', to: '/docs/students' },
-              { label: 'For Instructors', to: '/docs/instructors' },
+              { label: 'For Instructors', to: '/curriculum' },
             ],
           },
 

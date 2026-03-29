@@ -2,9 +2,6 @@
 title: Quick Start
 ---
 
-This page remains in the docs system as a rendering example. The active
-page-based version is [here](/curriculum/quick-start).
-
 This page is a classroom-focused workflow for using Avida-ED with minimal setup
 time.
 
@@ -77,6 +74,6 @@ A strong student response should identify:
 ## Keep nearby
 
 - [Support](/support)
-- [Troubleshooting](../support/troubleshooting.md)
-- [Student First Steps](../students/first-steps.md)
-- [Course Workflow](../students/course-workflow.md)
+- [Troubleshooting](/docs/support/troubleshooting)
+- [Student First Steps](/docs/students/first-steps)
+- [Course Workflow](/docs/students/course-workflow)

@@ -1,12 +1,33 @@
 ---
-title: Curriculum
-sidebar_label: Curriculum
+title: Docs Rendering Example
+sidebar_label: Docs Example
 sidebar_position: 1
 ---
 
-This section is the instructor-facing curriculum hub for teaching with Avida-ED.
+This page is intentionally left in the docs system so the PI can compare the
+default docs-style rendering with the page-based curriculum now published at
+[Curriculum](/curriculum).
 
-## Curriculum components
+## What to compare
+
+- this docs-rendered page and sidebar behavior
+- the page-rendered [Curriculum](/curriculum) landing page
+- the docs-rendered [Quick Start](./quick-start.md) example below versus the
+  page-rendered [Quick Start](/curriculum/quick-start)
+
+## Main curriculum location
+
+The active instructor curriculum now lives in the page hierarchy:
+
+- [Curriculum](/curriculum)
+- [Quick Start](/curriculum/quick-start)
+- [Lab Manual](/curriculum/lab-manual)
+- [Model Lessons](/curriculum/model-lessons)
+- [Publications](/curriculum/publications)
+
+## Previous docs content summary
+
+The original docs version organized the instructor curriculum as follows:
 
 - **Planning and background**
   Material for understanding what Avida-ED is good at, how it fits into a
@@ -20,41 +41,4 @@ This section is the instructor-facing curriculum hub for teaching with Avida-ED.
   Concept-focused teaching materials for particular topics in evolution,
   including mutation, genotype and phenotype, selection, and adaptation.
 
-## How to choose a path
-
-- Choose [Quick Start](./quick-start.md) if you need one class period or a
-  lightweight first use.
-- Choose [Lab Manual](./lab-manual/index.md) if students are new to Avida-ED
-  and need a guided sequence.
-- Choose [Model Lessons](./model-lessons/index.md) if you want a
-  concept-centered activity inside an existing unit.
-- Choose [Publications](./publications.md) if you need supporting literature on
-  curriculum design or student learning.
-
-## Recommended starting point
-
-For a first classroom use:
-
-1. Confirm that [Avida-ED 4](/app) launches on the devices you plan to use.
-2. Decide whether your class needs a short introduction or a longer lab
-   sequence.
-3. Begin with **Lab Manual - Exercise 1** if students are new to the
-   environment.
-4. Use the model lessons when you want to focus on a particular concept or tie
-   the software to a specific unit.
-
-## What this section carries forward
-
-This curriculum area preserves the most durable parts of the earlier curriculum
-hub:
-
-- the 2019 lab-book sequence
-- the model lesson set
-- supporting PDFs that still help instructors plan or teach
-- publications about classroom design and learning outcomes
-
-## Teaching emphasis
-
-This section prioritizes sequencing, lesson fit, and classroom support over
-software release details. Older version-specific assets may still appear, but
-the surrounding pages interpret them for current teaching use.
+For a side-by-side comparison page, use [Quick Start](./quick-start.md).

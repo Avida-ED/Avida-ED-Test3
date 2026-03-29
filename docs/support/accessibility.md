@@ -33,7 +33,7 @@ the same level of accessibility support as the newer HTML pages.
 When possible, use these pages first:
 
 - [For Students](/docs/students)
-- [For Instructors](/docs/instructors)
+- [For Instructors](/curriculum)
 - [Videos and Transcripts](/docs/videos)
 
 ## If you encounter a barrier

@@ -16,7 +16,7 @@ digital-evolution-related teaching.
 
 Yes. Avida-ED has been used in classroom studies that examined learning gains,
 scientific understanding, and student engagement with evolution-related ideas.
-For bundled readings in this site, start with [Publications](../instructors/publications.md).
+For bundled readings in this site, start with [Publications](/curriculum/publications).
 
 ## How should my students get Avida-ED?
 

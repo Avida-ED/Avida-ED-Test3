@@ -10,9 +10,9 @@ using Avida-ED.
 - If the app does not load, begin with the [Launch Avida-ED](/app) page and
   confirm you are using the current Avida-ED 4 link.
 - If you need classroom materials, go to the
-  [instructor curriculum hub](/docs/instructors).
+  [instructor curriculum hub](/curriculum).
 - If you are a learner trying to begin an assignment, go to
-  [For Students](/curriculum/students).
+  [For Students](/getstarted/students).
 - If you need transcript-first help with a walkthrough or overview video, go to
   [Videos and Transcripts](/docs/videos).
 
