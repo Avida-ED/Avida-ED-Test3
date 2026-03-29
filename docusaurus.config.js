@@ -8,10 +8,10 @@ const config = {
 
   // GitHub Pages canonical settings (project site)
   url: 'https://avida-ed.github.io',
-  baseUrl: '/Avida-ED-Test2/',
+  baseUrl: '/Avida-ED-Test3/',
 
   organizationName: 'Avida-ED',
-  projectName: 'Avida-ED-Test2',
+  projectName: 'Avida-ED-Test3',
 
   // During stub phase, warnings are less disruptive than hard failures.
   // Flip back to 'throw' when the site is complete.
@@ -59,41 +59,47 @@ markdown: {
           {
             label: 'Get Started',
             items: [
-              { label: 'Docs Intro', to: '/docs/intro' },
-              { label: 'Launch Avida-ED', to: '/app' },
+              { label: 'Launch Avida-ED 4', to: '/app' },
+              { label: 'For Students', to: '/curriculum/students' },
+              { label: 'For Instructors', to: '/docs/instructors' },
               { label: 'Download / Offline', to: '/download' },
             ],
           },
 
-          { label: 'Curriculum', to: '/docs/curriculum' },
-
-          {
-            label: 'About',
+          { label: 'Curriculum',
             items: [
-              { label: 'Avida-ED', to: '/about/avida-ed' },
-              { label: 'News Archive', to: '/news-archive' },
-              { label: 'Digital Evolution', to: '/about/digital-evolution' },
-              { label: 'Version History', to: '/about/version-history' },
-              { label: 'Vintage Archive', to: '/about/vintage-archive' },
-              { label: 'About Us', to: '/about/team' },
+              { label: 'For Students', to: '/curriculum/students' },
+              { label: 'For Instructors', to: '/docs/instructors' },
             ],
           },
 
           { label: 'Support', to: '/support' },
 
           {
-            label: 'Avida-ED4',
+            label: 'About',
+            items: [
+              { label: 'Avida-ED', to: '/about/avida-ed' },
+              { label: 'Digital Evolution', to: '/about/digital-evolution' },
+              { label: 'Version History', to: '/about/version-history' },
+              { label: 'Download / Offline', to: '/download' },
+              { label: 'News Archive', to: '/news-archive' },
+              { label: 'Vintage Archive', to: '/about/vintage-archive' },
+              { label: 'About Us', to: '/about/team' },
+            ],
+          },
+
+          {
+            label: 'Avida-ED 3',
+            href: 'https://avida-ed.github.io/Avida-ED3/AvidaED.html',
+            position: 'right',
+          },
+
+          {
+            label: 'Launch Avida-ED 4',
             href: 'https://avida-ed.github.io/Avida-ED4/',
             position: 'right',
             className: 'button button--primary',
           },
-          {
-            label: 'Avida-ED3',
-            href: 'https://avida-ed.github.io/Avida-ED3/AvidaED.html',
-            position: 'right',
-            className: 'button button--secondary',
-          },
-          
         ],
       },
 

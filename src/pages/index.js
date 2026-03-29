@@ -12,16 +12,31 @@ export default function Home() {
               src="img/avida-ed-logo.png"
               alt="Avida-ED logo"
             />
-<p lassName="homeHero__blurb">
-              Avida-ED is an educational software platform that allows students
-              to explore evolution by observing populations of self-replicating
-              digital organisms. It is widely used in biology classrooms to
-              demonstrate core evolutionary concepts through hands-on inquiry.
-
-</p>            <p className="homeHero__blurb">
-Avida-ED is an award-winning educational application developed at Michigan State University for undergraduate biology courses. Researchers and educators designed Avida-ED to help students learn about evolution and scientific methods by allowing them to design and perform experiments to test hypotheses about evolutionary mechanisms using evolving digital organisms.            
-            
+            <h1 className="homeHero__title">Digital evolution for teaching and learning</h1>
+            <p className="homeHero__blurb">
+              Avida-ED helps students investigate evolution by working with
+              populations of self-replicating digital organisms. It is designed
+              for teaching core ideas such as mutation, inheritance, adaptation,
+              selection, and the practice of scientific inquiry.
             </p>
+            <p className="homeHero__blurb">
+              This site is organized for classroom use first. Students can find
+              launch guidance and learning materials quickly, while instructors
+              can move directly to curriculum, lesson sequencing, and support
+              resources for teaching with Avida-ED.
+            </p>
+
+            <div className="homeHero__links" aria-label="Quick links">
+              <a className="homeHero__link" href="/Avida-ED-Test3/app">
+                Launch Avida-ED 4
+              </a>
+              <a className="homeHero__link" href="/Avida-ED-Test3/curriculum/students">
+                Student materials
+              </a>
+              <a className="homeHero__link" href="/Avida-ED-Test3/docs/instructors">
+                Instructor materials
+              </a>
+            </div>
 
             <div className="homeHero__videoWrap" aria-label="Avida-ED overview video">
               <iframe
@@ -32,6 +47,48 @@ Avida-ED is an award-winning educational application developed at Michigan State
                 allowFullScreen
               />
             </div>
+          </div>
+        </section>
+
+        <section className="homeSection">
+          <div className="container contentColumn">
+            <h2>Start here</h2>
+            <p>
+              The fastest path into Avida-ED depends on what you need to do
+              today.
+            </p>
+            <ul>
+              <li>
+                Students: go to the student materials page for launch help,
+                first steps, and guidance on using the curriculum.
+              </li>
+              <li>
+                Instructors: go to the instructor curriculum hub for lesson
+                planning, lab-manual sequencing, and model lessons.
+              </li>
+              <li>
+                Technical setup: use the launch and download pages if you need
+                browser access, offline options, or compatibility guidance.
+              </li>
+            </ul>
+          </div>
+        </section>
+
+        <section className="homeSection homeSection--subtle">
+          <div className="container contentColumn">
+            <h2>Why Avida-ED</h2>
+            <p>
+              Avida-ED was developed to support learning in biology classrooms,
+              especially where students benefit from observing evolutionary
+              processes directly, collecting evidence, and testing hypotheses in
+              a manageable experimental environment.
+            </p>
+            <p>
+              The goal of this public site is to support that educational work:
+              clearer launch guidance, clearer learner and instructor pathways,
+              and curriculum material that is easier to browse than the legacy
+              software-centered site.
+            </p>
           </div>
         </section>
       </main>
