@@ -47,6 +47,12 @@ markdown: {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
+      },
+
       navbar: {
         title: 'Avida-ED',
         logo: {
@@ -86,12 +92,6 @@ markdown: {
               { label: 'Vintage Archive', to: '/about/vintage-archive' },
               { label: 'About Us', to: '/about/team' },
             ],
-          },
-
-          {
-            label: 'Avida-ED 3',
-            href: 'https://avida-ed.github.io/Avida-ED3/AvidaED.html',
-            position: 'right',
           },
 
           {
