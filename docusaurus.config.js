@@ -74,7 +74,7 @@ markdown: {
 
           { label: 'Curriculum',
             items: [
-              { label: 'For Students', to: '/curriculum/students' },
+              { label: 'For Students', to: '/docs/students' },
               { label: 'For Instructors', to: '/docs/instructors' },
             ],
           },

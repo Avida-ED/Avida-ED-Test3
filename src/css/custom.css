@@ -135,8 +135,11 @@
   --ifm-color-content-secondary: #5c6066;
 
   /* Links */
-  --ifm-link-color: var(--ifm-color-primary);
-  --ifm-link-hover-color: #0f2f29;
+  --ifm-link-color: #0f4f43;
+  --ifm-link-hover-color: #0a342d;
+  --site-link-visited: #5b2f6b;
+  --site-link-underline: currentColor;
+  --site-link-focus-ring: rgba(15, 79, 67, 0.24);
 
   /* Code blocks (subtle, not loud) */
   --ifm-code-background: #f3f4f4;
@@ -294,8 +297,35 @@
 
 .markdown a,
 .theme-doc-markdown a {
-  text-decoration-thickness: 0.08em;
-  text-underline-offset: 0.16em;
+  color: var(--ifm-link-color);
+  font-weight: 600;
+  text-decoration-line: underline;
+  text-decoration-color: var(--site-link-underline);
+  text-decoration-thickness: 0.12em;
+  text-underline-offset: 0.18em;
+  text-decoration-skip-ink: auto;
+  transition: color 140ms ease, text-decoration-thickness 140ms ease,
+    text-decoration-color 140ms ease, box-shadow 140ms ease;
+}
+
+.markdown a:visited,
+.theme-doc-markdown a:visited {
+  color: var(--site-link-visited);
+}
+
+.markdown a:hover,
+.markdown a:focus-visible,
+.theme-doc-markdown a:hover,
+.theme-doc-markdown a:focus-visible {
+  color: var(--ifm-link-hover-color);
+  text-decoration-thickness: 0.15em;
+}
+
+.markdown a:focus-visible,
+.theme-doc-markdown a:focus-visible {
+  border-radius: 0.08rem;
+  box-shadow: 0 0 0 0.18rem var(--site-link-focus-ring);
+  outline: none;
 }
 
 .markdown ul,

@@ -8,6 +8,7 @@ Avida-ED aims to support accessible classroom use for all learners.
 
 - clear headings and predictable navigation
 - descriptive link text
+- visible link styling that does not rely on color alone
 - alt text for meaningful images
 - keyboard-usable navigation
 - captions and transcripts when video support material is provided
