@@ -33,9 +33,9 @@ A person must:
 
 Record here when done:
 
-- Date:
-- Who created it:
-- GitHub URL:
+- Date: completed before 2026-03-29
+- Who created it: user
+- GitHub URL: `https://github.com/Avida-ED/Avida-ED-Test3`
 
 ### 2. Confirm the local checkout is the correct one
 
@@ -55,8 +55,8 @@ Expected result before remote changes:
 
 Record here when checked:
 
-- Date:
-- Who checked it:
+- Date: completed before initial promotion push
+- Who checked it: user
 
 ### 3. Rename the old remote so it is not used by accident
 
@@ -71,8 +71,8 @@ This preserves the old remote reference but prevents `git push` from going to
 
 Record here when done:
 
-- Date:
-- Who renamed it:
+- Date: completed before initial promotion push
+- Who renamed it: user
 
 ### 4. Add the new GitHub repo as `origin`
 
@@ -86,9 +86,9 @@ If SSH is preferred, use the SSH URL instead.
 
 Record here when done:
 
-- Date:
-- Who added it:
-- URL used:
+- Date: completed before initial promotion push
+- Who added it: user
+- URL used: `https://github.com/Avida-ED/Avida-ED-Test3.git`
 
 ### 5. Verify remotes before pushing
 
@@ -107,8 +107,8 @@ Do not push until this is correct.
 
 Record verification:
 
-- Date:
-- Who verified it:
+- Date: completed before initial promotion push
+- Who verified it: user
 
 ### 6. Push the branch to the new repo
 
@@ -123,9 +123,9 @@ target `Avida-ED-Test3`.
 
 Record here when done:
 
-- Date:
-- Who pushed it:
-- Result:
+- Date: completed before 2026-03-29
+- Who pushed it: user
+- Result: initial push to `Avida-ED-Test3` completed
 
 ### 7. Enable GitHub Pages in the new repo
 
@@ -139,8 +139,8 @@ This repo already includes a Pages workflow in `.github/workflows/deploy.yml`.
 
 Record here when done:
 
-- Date:
-- Who configured Pages:
+- Date: completed before 2026-03-29
+- Who configured Pages: user
 
 ### 8. Confirm the first Actions deployment succeeds
 
@@ -157,9 +157,9 @@ Expected site URL:
 
 Record here when done:
 
-- Date:
-- Who checked it:
-- Result:
+- Date: completed before 2026-03-29
+- Who checked it: user
+- Result: site loads at `https://avida-ed.github.io/Avida-ED-Test3/`
 
 ## Follow-up cleanup after promotion
 
@@ -226,8 +226,31 @@ Add new notes here as work continues.
 
 ### Entries
 
-- Date:
-  Person:
-  What was done:
-  What remains:
-  Any blocker:
+- Date: 2026-03-29
+  Person: Codex + user
+  What was done: repo promotion completed and GitHub Pages is live; color-mode switch removed; landing page revised toward the intended Test3 presentation; navbar and route cleanup completed.
+  What remains: continue normal site/content work in the promoted repo.
+  Any blocker: none at the promotion level.
+
+- Date: 2026-03-29
+  Person: Codex
+  What was done: instructor curriculum moved into `src/pages/curriculum/`, with a reduced docs-rendering comparison example left under `docs/instructors/`; a sticky in-page subnav prototype with breadcrumb and corrected anchor offsets was added to the curriculum landing page.
+  What remains: decide whether to extend the page-level subnav pattern to other long pages.
+  Any blocker: none.
+
+- Date: 2026-03-29
+  Person: Codex
+  What was done: transcript tooling and process docs were added; transcript-first video support was built out; archive/news image paths were reconciled with local `static/img/about/` assets; section-based `static/img/` folders were created.
+  What remains: continue transcript publication and decide how many remaining legacy video items should become transcript-first support pages.
+  Any blocker: some source media is still not present locally.
+
+- Date: 2026-03-29
+  Person: Codex
+  What was done: multiple learner/instructor-focused migration units were completed from the scraped legacy site:
+  What remains: continue with lower-priority archive and background cleanup as needed.
+  Any blocker: none.
+  - student support and tutorial guidance
+  - instructor FAQ and start guidance
+  - curriculum framing refinements
+  - legacy offline fallback guidance
+  - about/archive context refinements
