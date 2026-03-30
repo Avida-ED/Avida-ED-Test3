@@ -17,6 +17,20 @@ application developed at Michigan State University for undergraduate biology
 courses. That remains the clearest short description of the project's public
 purpose.
 
+## Pedagogical goals and design context
+
+The legacy `About Us` page also pointed readers to a project background paper by
+Robert T. Pennock for the pedagogical goals and design thinking that shaped the
+software and curriculum:
+
+- Robert T. Pennock,
+  ["Learning Evolution and the Nature of Science using Evolutionary Computing and Artificial Life"](http://www.msu.edu/~pennock5/research/papers/Pennock_LENSwEvoComp.pdf),
+  *McGill Journal of Education* 42(2), 2007
+
+That framing still fits the site well. Avida-ED was built not only to illustrate
+evolutionary ideas, but also to help students work with evidence, explanation,
+experimental design, and the nature of science.
+
 ## How it is used
 
 Instructors use Avida-ED to support:
@@ -51,3 +65,6 @@ in supporting pages instead of driving the whole site structure.
 Avida-ED is most useful when the software supports a larger learning goal. The
 site redesign underway in this repository reflects that priority by shifting
 from a software-development presentation toward learner and instructor support.
+
+For the related project-history and contributor context, see
+[About Us](/about/team) and [Digital Evolution](/about/digital-evolution).
