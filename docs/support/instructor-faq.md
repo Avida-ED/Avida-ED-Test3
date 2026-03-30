@@ -78,3 +78,29 @@ environmental controls and other advanced options. For classroom use, the more
 important question is whether the current version supports your lesson goals and
 device constraints right now. If it does, start from [Launch Avida-ED](/app)
 and the [instructor curriculum section](../instructors/index.md).
+
+## What should I include in a support report?
+
+When reporting problems, include:
+
+- the exact URL or page you were on (curriculum exercise, support page, etc.)
+- the version/branch of Avida‑ED you launched
+- the browser name/version or device information
+- a short description of what worked, what broke, and any console or export
+  output you have
+- any steps students took immediately before the issue occurred
+
+Use [Reporting Problems](./reporting-problems.md) for a structured template that
+can be forwarded to the dev team or posted in a classroom discussion board.
+
+## What if students cannot launch the app?
+
+- Verify the network allows connections to `https://avida-ed.github.io`.
+- Reload once before changing lesson settings; many issues resolve with a
+  simple refresh.
+- If you are in a managed lab, make sure the specific browser version is
+  permitted (Chrome/Firefox are safest).  
+- Avoid older browsers like Safari 13 or Internet Explorer 11 for current
+  lessons.  
+- When you still need an offline fallback, document it as part of your report so
+  support can mention the [download/offline guidance](/download) section.
