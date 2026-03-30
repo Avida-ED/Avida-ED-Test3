@@ -83,7 +83,7 @@ Use the list below to jump into the section you need:
   engage with digital evolution.
 - **Support & reporting:** [Instructor FAQ](/docs/support/instructor-faq),
   [Troubleshooting](/docs/support/troubleshooting), and
-  [Reporting Problems](/docs/support/reporting-problems.md) guide tech support,
+  [Reporting Problems](/docs/support/reporting-problems) guide tech support,
   classroom reporting, and accessibility questions.
 
 ## How to choose a path
