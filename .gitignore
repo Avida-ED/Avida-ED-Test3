@@ -25,6 +25,7 @@ Thumbs.db
 
 # Video transcript workspace
 transcripts/
+staging/
 
 # Python/script ephemera
 scripts/__pycache__/
