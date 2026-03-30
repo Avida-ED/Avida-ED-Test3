@@ -51,10 +51,22 @@ activity.
 ## Before class
 
 1. Test [Avida-ED 4](/app) on the same device type your students will use.
-2. Decide what students will save, export, or submit.
-3. Identify whether students need the student workflow pages, a transcript
+2. If you teach in a managed lab or Chromebook-heavy environment, test the
+   exact browser setup before the assignment opens.
+3. Decide what students will save, export, or submit.
+4. Identify whether students need the student workflow pages, a transcript
    page, or troubleshooting guidance in advance.
-4. Keep the [Support](/support) page nearby for classroom issues.
+5. Keep the [Support](/support) page nearby for classroom issues.
+
+## Curriculum and reuse
+
+The Avida-ED lesson materials were built to be adapted for real courses. In the
+legacy site, many of those materials were presented as reusable curriculum
+under a Creative Commons license, with some instructor-support materials shared
+separately.
+
+Use the current [Curriculum](/curriculum) pages as the active source for that
+teaching material rather than relying on older workshop or archive pages.
 
 ## Useful companion pages
 

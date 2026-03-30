@@ -9,14 +9,15 @@ legacy support materials.
 
 Avida-ED was designed primarily for undergraduate biology courses and has been
 used in introductory and upper-division settings, major and non-major courses,
-and some high school biology contexts. It has also been used in computing and
-digital-evolution-related teaching.
+and some high school biology contexts, including AP-style settings. It has also
+been used in computing and digital-evolution-related teaching.
 
 ## Is there evidence that Avida-ED is effective in the classroom?
 
 Yes. Avida-ED has been used in classroom studies that examined learning gains,
 scientific understanding, and student engagement with evolution-related ideas.
-For bundled readings in this site, start with [Publications](/curriculum/publications).
+For bundled readings in this site, start with
+[Publications](/curriculum/publications).
 
 ## How should my students get Avida-ED?
 
@@ -35,6 +36,7 @@ Internet Explorer. That version-specific browser guidance is now dated, but the
 core principle still holds:
 
 - test the exact device and browser setup your students will use
+- test shared lab machines or managed school devices before class day
 - avoid relying on old screenshots or platform assumptions
 - prefer the current web version unless you specifically need offline support
 
@@ -50,9 +52,14 @@ Yes. The instructor curriculum section in this site is the new home for:
 - model lessons
 - quick-start teaching guidance
 
-The legacy site also noted that curricular materials were developed for reuse
-under a Creative Commons license and that some instructor support material and
-answer keys were restricted to registered instructors.
+The legacy site also emphasized two points that still matter:
+
+- many curricular materials were developed for reuse under a Creative Commons
+  license
+- some instructor support material and answer keys were historically distributed
+  separately to verified instructors
+
+Start with [Curriculum](/curriculum) for the active teaching materials.
 
 ## How can I contribute?
 
@@ -62,6 +69,7 @@ Useful contributions include:
 - contributing lesson ideas or classroom adaptations
 - helping test updated materials
 - sharing how Avida-ED is used in real courses
+- participating in future classroom studies or pilot use when requested
 
 ## What future features are planned?
 
