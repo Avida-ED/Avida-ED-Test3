@@ -89,7 +89,7 @@ markdown: {
               { label: 'Digital Evolution', to: '/about/digital-evolution' },
               { label: 'Version History', to: '/about/version-history' },
               { label: 'Download / Offline', to: '/download' },
-              { label: 'News Archive', to: '/news-archive' },
+              { label: 'News Archive', to: '/about/news-archive' },
               { label: 'Vintage Archive', to: '/about/vintage-archive' },
               { label: 'About Us', to: '/about/team' },
             ],
