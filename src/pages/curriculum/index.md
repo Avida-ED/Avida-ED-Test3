@@ -55,6 +55,37 @@ HTML guidance on pages such as [Quick Start](/curriculum/quick-start),
 [Lab Manual](/curriculum/lab-manual), and
 [Instructor FAQ](/docs/support/instructor-faq).
 
+## Instructor overview
+
+This hub exists so instructors can quickly:
+
+- orient themselves to the full suite of materials (lab manual, model lessons,
+  publications, instructor FAQ, and support) from a single entry point;
+- see which assets still live as PDFs or downloads (the `lab-book` materials in
+  `static/files/` or `staging/`);
+- align each classroom activity with a matching troubleshooting path or
+  transcripted video; and
+- understand when to keep referencing legacy artifacts (downloaded installers,
+  video playlists, White paper-style publications) versus the fresh web-native
+  experience.
+
+Use the list below to jump into the section you need:
+
+- **Quick orientation:** [Quick Start](/curriculum/quick-start) provides a
+  condensed decision tree plus lightweight assignments.
+- **Full guided sequence:** [Lab Manual](/curriculum/lab-manual) contains the
+  five exercises, the independent project, and links to the downloadable lab
+  book PDFs (the 2019 lab book plus exercise-specific handouts).
+- **Concept lessons:** [Model Lessons](/curriculum/model-lessons) lets you pick a
+  specific evolutionary concept (mutation, selection, digital variation).
+- **Evidence base:** [Publications](/curriculum/publications) aggregates the
+  papers that justify using Avida-ED in classrooms and document how students
+  engage with digital evolution.
+- **Support & reporting:** [Instructor FAQ](/docs/support/instructor-faq),
+  [Troubleshooting](/docs/support/troubleshooting), and
+  [Reporting Problems](../docs/support/reporting-problems.md) guide tech support,
+  classroom reporting, and accessibility questions.
+
 ## How to choose a path
 
 - Choose [Quick Start](/curriculum/quick-start) if you need one class period or a
