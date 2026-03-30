@@ -16,8 +16,19 @@ For the current site, the practical guidance is:
 
 - prefer a current desktop browser
 - test on the device type required by your course
+- if your class depends on Chromebooks or shared lab machines, test before the
+  assignment day rather than assuming the setup will match older site guidance
 - avoid assuming that older browser-specific guidance from the legacy site is
   still the best recommendation
+
+## Can I use a phone or tablet?
+
+Usually, no.
+
+Some older versions could open on tablets or phones, but the interface was not
+designed for touch-first use and classroom control is limited on small screens.
+For current coursework, a laptop or desktop browser should be treated as the
+expected setup unless your instructor says otherwise.
 
 ## How much does it cost?
 
@@ -36,6 +47,10 @@ The old site also pointed students to a user manual and introductory screencast.
 Those materials can still help, but the pages above are the fastest route for
 current coursework.
 
+If your instructor points you to a draft tutorial video for Avida-ED 4, use it
+as orientation and then switch back to the written workflow pages for the
+assignment details.
+
 ## Can I change environmental parameters during a run?
 
 That depends on the version and the lesson workflow. In older Avida-ED versions,
@@ -50,6 +65,13 @@ every control should be changed mid-run.
 Some legacy materials were written for earlier standalone versions of Avida-ED.
 If an older screenshot or instruction set does not match what you see, rely on
 your instructor's current directions and the student pages in this site first.
+
+Differences are especially common when a handout was written for:
+
+- Avida-ED 1 or 2 standalone software
+- Avida-ED 3 browser beta or early browser releases
+- older tutorial videos that explain controls rather than the current class
+  workflow
 
 ## What should I do if my assignment result looks wrong?
 

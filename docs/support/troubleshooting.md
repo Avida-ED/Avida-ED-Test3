@@ -10,6 +10,8 @@ steps fail.
 - confirm you started from the current [Launch Avida-ED](/app) page
 - reload the page once before changing settings
 - try a current desktop browser if you were using an older or mobile setup
+- if you are in a computer lab or on a managed school device, confirm the
+  browser is not locked to an older unsupported version
 - check whether privacy tools or pop-up blocking interfere with the app
 - if a class depends on a local fallback, verify that the offline or legacy
   setup instructions were followed exactly
@@ -25,6 +27,16 @@ steps fail.
 - confirm the device permits downloads
 - check whether the browser blocks downloads by default
 - verify that the file appears in the expected download location
+
+## If a student is following an older video or handout
+
+- confirm which Avida-ED version the material was written for
+- check whether the page is describing older browser beta behavior or a
+  standalone app workflow
+- redirect the student to [For Students](../students/index.md) for current
+  launch and workflow guidance
+- use transcript pages when a video is helpful but the interface shown is not an
+  exact match for the current app
 
 ## If you must use a local Windows standalone setup
 

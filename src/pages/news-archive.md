@@ -37,7 +37,7 @@ Exercises from our Lab Book provide actual experiments (as opposed to simulation
 - 2019 July 8: Louise Mead gave a presentation about Avida-ED to the National Center for Science Education (NCSE) Teacher Ambassadors Workshop.
 - 2019 June: William Beachly presented a poster on Avida-ED at a session during the AP biology reading in Kansas City and at the Association for Biology Laboratory Education in Ottawa, CA (pictured). The abstract will be published as: Beachly W. 2020. *Is mutation a creative or destructive force in evolution?* Article 58 In: McMahon K, editor. *Advances in biology laboratory education*. Volume 41. Publication of the 41st Conference of the Association for Biology Laboratory Education (ABLE). [ableweb.org/volumes](http://www.ableweb.org/volumes/) (once volume 41 is posted)
 
-  ![](img/about/Beachly-W_2020_IMG_0137_crop.jpeg)
+  ![](/img/about/Beachly-W_2020_IMG_0137_crop.jpeg)
 
 - 2019 June 24: Diane Blackwood, Matthew Rupp, Charles Ofria, Robert T. Pennock. "Avida-ED 4.0: Ecology" Poster Presentation at Evolution 2019. Providence, RI.
 
@@ -86,7 +86,7 @@ Exercises from our Lab Book provide actual experiments (as opposed to simulation
 
 - 2017 July 27-29: The fourth national Avida-ED Active LENS Workshop for faculty was held at the Michigan State University campus.
 
-  ![](/img/about/about/ActiveLens2017_group_July.jpg?resize=600%2C312)
+  ![](/img/about/ActiveLens2017_group_July.jpg)
 
   *Active Lens 2017 July workshop participants (Photo: Wesley Elsberry)*
 
@@ -100,7 +100,7 @@ Exercises from our Lab Book provide actual experiments (as opposed to simulation
 
 - 2017 June 21-23: The third national Avida-ED Active LENS Workshop for faculty was held at the BEACON Center for the Study of Evolution in Action at the University of Washington in Seattle.
 
-  ![Active Lens 2017 June workshop participants](/img/about/ActiveLens2017JuneGroup.jpg?resize=600%2C370)
+  ![Active Lens 2017 June workshop participants](/img/about/ActiveLens2017JuneGroup.png)
 
   *Active Lens 2017 June workshop participants*
 
@@ -144,7 +144,7 @@ Exercises from our Lab Book provide actual experiments (as opposed to simulation
 
 - 2015 June 4-6: *Active LENS Workshop*. We held the first of our national Avida-ED faculty development workshops as part of our NSF Active LENS grant at Lyman Briggs College and the BEACON Center for the Study of Evolution in Action here at MSU. The grant funded 18 participants, mostly university and college biology faculty, in nine teams of two and BEACON funded an additional team of two high school teachers. Teams came from both public and private colleges, universities, community college, and high schools, with participants from California, Florida, Illinois, Michigan, New Mexico, North Carolina, Ohio, Pennsylvania and Virginia.
 
-  ![Group photo of Active Lens Workshop 2015](img/about/about/ActiveLens2015_group_June.jpg)
+  ![Group photo of Active Lens Workshop 2015](/img/about/ActiveLens2015_group_June.jpg)
 
   *Active Lens Workshop 2015 workshop participants (Photo: Wesley Elsberry)*
 
@@ -210,7 +210,7 @@ Exercises from our Lab Book provide actual experiments (as opposed to simulation
 
 - 2012 April 21: **Avida-ED Project wins Phi Kappa Phi Excellence Award in Interdisciplinary Scholarship**. The award is presented to interdisciplinary teams in recognition of excellence in interdisciplinary research and instruction or the application of such knowledge and skills to problems and opportunities in society.
 
-  ![Photo of presentation of award plaque to Robert Pennock](/img/about/RP_Phi-Kappa-Phi-EAIS-2012-award.jpg?resize=470%2C335)
+  ![Photo of presentation of award plaque to Robert Pennock](/img/about/RP_Phi-Kappa-Phi-EAIS-2012-award.png)
 
   *Robert Pennock accepts the EAIS award on behalf of the Avida-ED team.*
 

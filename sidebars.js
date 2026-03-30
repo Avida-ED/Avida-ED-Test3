@@ -25,6 +25,7 @@ const sidebars = {
       label: 'Videos',
       link: { type: 'doc', id: 'videos/index' },
       items: [
+        { type: 'doc', id: 'videos/avida-ed-4-tutorial-videos', label: 'Avida-ED 4 Tutorial Videos' },
         { type: 'doc', id: 'videos/intro-to-lab-bench', label: 'Intro to Lab Bench Transcript' },
         { type: 'doc', id: 'videos/project-overview', label: 'Project Overview Transcript' },
       ],

@@ -9,6 +9,8 @@ This page provides a stable home for student-facing video guidance.
 - The main site home page includes the Avida-ED overview video.
 - A transcript page is available for
   [Intro to Lab Bench](../videos/intro-to-lab-bench.md).
+- A legacy Avida-ED 4 tutorial page has been condensed into
+  [Avida-ED 4 Tutorial Videos](../videos/avida-ed-4-tutorial-videos.md).
 - The overview video transcript destination is
   [Avida-ED Project Overview](../videos/project-overview.md).
 

@@ -22,6 +22,7 @@ is easier to scan, quote, share, and support accessibly.
 The first migrated transcript is:
 
 - [Intro to Lab Bench](./intro-to-lab-bench.md)
+- [Avida-ED 4 Tutorial Videos](./avida-ed-4-tutorial-videos.md)
 
 The next transcript target is scaffolded with source metadata and publishing
 notes:
