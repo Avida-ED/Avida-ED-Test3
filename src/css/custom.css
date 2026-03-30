@@ -344,7 +344,9 @@
   background: rgba(15, 79, 67, 0.15);
   padding: 0 0.15rem;
   border-radius: 0.3rem;
-  text-decoration: none;
+  text-decoration: underline;
+  text-decoration-thickness: 0.16em;
+  text-underline-offset: 0.1em;
   border-bottom: 2px solid var(--ifm-link-color);
   box-shadow: none;
   transition: color 140ms ease, border-bottom-color 140ms ease,
