@@ -18,6 +18,13 @@ The legacy site identified the following core participants in the project:
 It also credited additional collaborators, software developers, graduate
 students, postdocs, and advisory participants across multiple institutions.
 
+The legacy page grouped those contributors into:
+
+- core project leadership
+- current students, postdocs, and programmers
+- previous students, postdocs, and programmers
+- an external advisory committee
+
 ## Project character
 
 This history matters because Avida-ED was built as a joint education and

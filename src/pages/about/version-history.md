@@ -35,5 +35,10 @@ change log inline.
 - compatibility notes that affect teaching materials
 - context for older screenshots, downloads, and archived handouts
 
+The full legacy change logs used symbol-coded entries for bug fixes, changes,
+feature additions, and feature removals. That level of detail is still useful
+for archive interpretation, but it should stay secondary to the simpler
+version-choice guidance above.
+
 Detailed historical release notes can remain available, but they should not
 compete with the learner and instructor pathways that support current use.

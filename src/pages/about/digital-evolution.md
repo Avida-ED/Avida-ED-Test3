@@ -16,6 +16,11 @@ teaching about both evolution and the nature of science. Students are not just
 watching a model run; they are expected to form questions, test ideas, and use
 evidence from repeated runs.
 
+The older background page also emphasized an important conceptual point:
+Avida-ED is not presented simply as a visual simulation of evolution, but as a
+digital system in which evolutionary processes can actually be observed and
+investigated.
+
 ## Connections to biology education
 
 Digital evolution can help learners examine:
@@ -41,3 +46,8 @@ Avida-ED. The current site keeps that role in:
 - [Instructor Publications](/curriculum/publications)
 - [What Is Avida-ED?](/about/avida-ed)
 - [For Instructors](/curriculum)
+
+The legacy site also pointed readers to broader background literature on
+pedagogy, digital evolution, and the underlying research platform. Those deeper
+references belong in the broader project-history and publication context rather
+than in the learner-facing workflow pages.

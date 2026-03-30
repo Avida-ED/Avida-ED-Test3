@@ -21,6 +21,9 @@ Archive items are appropriate when they are still useful for:
 - understanding project history
 - preserving materials that are worth keeping but should not guide new users
 
+Examples from the legacy site included older Mac and Windows installers for
+Avida-ED 1.x and 2.x, along with other superseded standalone packages.
+
 ## What should not happen here
 
 The archive should not become the default path for current classroom use. If a
