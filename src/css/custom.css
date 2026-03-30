@@ -549,6 +549,13 @@
   text-decoration-thickness: 0.14em;
 }
 
+.markdown h2,
+.markdown h3,
+.theme-doc-markdown h2,
+.theme-doc-markdown h3 {
+  scroll-margin-top: 8.5rem;
+}
+
 @media (max-width: 996px) {
   .pageSubnav {
     top: 56px;
@@ -560,6 +567,13 @@
     flex-basis: 100%;
     margin-right: 0;
     padding-right: 0;
+  }
+
+  .markdown h2,
+  .markdown h3,
+  .theme-doc-markdown h2,
+  .theme-doc-markdown h3 {
+    scroll-margin-top: 7.5rem;
   }
 }
 
