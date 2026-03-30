@@ -14,13 +14,18 @@ steps fail.
   browser is not locked to an older unsupported version
 - check whether privacy tools or pop-up blocking interfere with the app
 - if a class depends on a local fallback, verify that the offline or legacy
-  setup instructions were followed exactly
+  setup instructions were followed exactly using
+  [Download and fallback guidance](/download)
 
 ## If a classroom activity behaves unexpectedly
 
 - confirm all students are using the same version
 - make sure students are not changing more than one variable at a time
 - rerun the same setup once to see whether the pattern is reproducible
+- compare the assignment against the current
+  [Curriculum](/curriculum), [Lab Manual](/curriculum/lab-manual), or
+  [Model Lessons](/curriculum/model-lessons) page if students are using older
+  handouts
 
 ## If students cannot save or export files
 

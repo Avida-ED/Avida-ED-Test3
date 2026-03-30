@@ -18,7 +18,8 @@ Use model lessons when:
 ## Recommended use
 
 - Use model lessons when you want a concept-centered activity.
-- Use the lab manual when students need a more guided sequence.
+- Use the [lab manual](/curriculum/lab-manual) when students need a more
+  guided sequence.
 - Flag older references clearly so students do not confuse legacy interface
   details with the current version of the software.
 
@@ -27,12 +28,13 @@ Use model lessons when:
 The lesson set includes:
 
 - Understanding the Introduction of Genetic Variations by Random Mutation
-- From Genotype to Phenotype
-- Exploring the Effects of Mutation Rate on Individuals
-- Exploring the Effects of Mutation Rate on Populations
-- Artificial Selection: Evolution in Practice
-- Exploring Selection and Fitness
-- Experimental Evolution Project with Evolving Digital Organisms
+- [Understanding the Introduction of Genetic Variations by Random Mutation](/curriculum/model-lessons/genetic-variations)
+- [From Genotype to Phenotype](/curriculum/model-lessons/genotype-to-phenotype)
+- [Exploring the Effects of Mutation Rate on Individuals](/curriculum/model-lessons/mRate-individuals)
+- [Exploring the Effects of Mutation Rate on Populations](/curriculum/model-lessons/mRate-populations)
+- [Artificial Selection: Evolution in Practice](/curriculum/model-lessons/artificial-selection)
+- [Exploring Selection and Fitness](/curriculum/model-lessons/exploring-selection)
+- [Experimental Evolution Project with Evolving Digital Organisms](/curriculum/model-lessons/ex-evolve-project)
 
 ## Version note
 

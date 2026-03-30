@@ -20,10 +20,15 @@ Most classroom activities with Avida-ED follow this sequence:
 
 Check these details first:
 
-- which version your course is using
+- which version your course is using by checking [Launch Avida-ED](/app)
 - whether your instructor expects default settings or a prepared setup
 - what counts as evidence for the assignment
 - whether you must submit screenshots, exported data, or written answers
+
+If your instructions mention a specific lesson name, match it against
+[Curriculum](/curriculum),
+[Lab Manual](/curriculum/lab-manual), or
+[Model Lessons](/curriculum/model-lessons) before you launch.
 
 ## During the experiment
 
@@ -50,3 +55,4 @@ If the app fails to launch, save, or behave as expected, use:
 - [First Steps](./first-steps.md)
 - [Student FAQ](./faq.md)
 - [Troubleshooting](../support/troubleshooting.md)
+- [Videos and Transcripts](../videos/index.md)

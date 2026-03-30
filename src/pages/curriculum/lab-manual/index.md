@@ -19,16 +19,19 @@ lesson.
 
 - **Exercise 1: The Introduction of Genetic Variation by Random Mutation**
   introduces the environment while focusing attention on mutation as a source of
-  heritable variation.
+  heritable variation. See [Exercise 1](/curriculum/lab-manual/exercise-1).
 - **Exercise 2: Exploring Random Mutation and Selection** extends students'
-  use of evidence and comparison.
+  use of evidence and comparison. See
+  [Exercise 2](/curriculum/lab-manual/exercise-2).
 - **Exercise 3: Exploring Fitness and Population Change under Selection** asks
-  students to interpret population-level patterns.
+  students to interpret population-level patterns. See
+  [Exercise 3](/curriculum/lab-manual/exercise-3).
 - **Exercise 4: Exploring Population Change without Selection** deepens
   reasoning by shifting the selective context and preparing students for more
-  independent work.
+  independent work. See [Exercise 4](/curriculum/lab-manual/exercise-4).
 - **Independent Research Project** shifts from guided activity to student-driven
-  question formation and investigation.
+  question formation and investigation. See
+  [Independent Research Project](/curriculum/lab-manual/independent-research-project).
 
 ## Teaching note
 
@@ -37,12 +40,16 @@ progression from orientation toward independent inquiry.
 
 ## Suggested use patterns
 
-- Use **Exercise 1** alone for a first introduction.
-- Use **Exercises 1-2** for a short guided unit.
-- Use **Exercises 1-4** when you want students to build toward interpreting
+- Use [Exercise 1](/curriculum/lab-manual/exercise-1) alone for a first
+  introduction.
+- Use [Exercises 1-2](/curriculum/lab-manual/exercise-2) for a short guided
+  unit.
+- Use [Exercises 1-4](/curriculum/lab-manual/exercise-4) when you want
+  students to build toward interpreting
   population-level evidence.
-- Add the **Independent Research Project** when students are ready to pose and
-  investigate their own questions.
+- Add the
+  [Independent Research Project](/curriculum/lab-manual/independent-research-project)
+  when students are ready to pose and investigate their own questions.
 
 ## Supporting files
 

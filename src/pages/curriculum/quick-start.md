@@ -26,6 +26,10 @@ Use this path when:
    - exported data or screenshots
 4. Prepare brief submission instructions if the work will be turned in.
 
+If you are unsure whether your class needs more structure, compare this page
+with the [Lab Manual](/curriculum/lab-manual) and the
+[Model Lessons](/curriculum/model-lessons).
+
 ## Suggested deliverable
 
 For a first use, keep the deliverable simple:
@@ -46,13 +50,15 @@ Use a testable question such as:
 ### 2. Establish a baseline run
 
 - Use default settings unless your lesson requires something else.
-- Have students record what they observe and the settings used.
+- Have students record what they observe and the settings used, using guidance
+  from [Student First Steps](/docs/students/first-steps) if needed.
 
 ### 3. Change one variable
 
 - Change one condition only.
 - Run again for the same duration or step count.
-- Compare the two outcomes.
+- Compare the two outcomes using the assignment pattern in
+  [Course Workflow](/docs/students/course-workflow).
 
 ### 4. Require an explanation
 
@@ -77,3 +83,4 @@ A strong student response should identify:
 - [Troubleshooting](/docs/support/troubleshooting)
 - [Student First Steps](/docs/students/first-steps)
 - [Course Workflow](/docs/students/course-workflow)
+- [Avida-ED 4 Tutorial Videos](/docs/videos/avida-ed-4-tutorial-videos)

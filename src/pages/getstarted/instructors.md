@@ -7,6 +7,10 @@ This page is the instructor-facing starting point for using Avida-ED in class.
 Use it when you need to choose a launch path, decide how much scaffolding your
 students need, and move quickly into the most relevant curriculum materials.
 
+Useful companion guidance lives in [Support](/support),
+[Troubleshooting](/docs/support/troubleshooting), and
+[Instructor FAQ](/docs/support/instructor-faq).
+
 ## Start here
 
 - Confirm that the current app opens from the [Launch Avida-ED](/app) page.
@@ -35,7 +39,8 @@ Best when you want to test Avida-ED in one class period with minimal setup.
 Best when students are new to the environment and need structure.
 
 - begin with [Lab Manual](/curriculum/lab-manual)
-- assign Exercise 1 as the common starting point
+- assign [Exercise 1](/curriculum/lab-manual/exercise-1) as the common starting
+  point
 - add later exercises only if the class needs more practice with evidence and
   comparison
 
@@ -55,7 +60,9 @@ activity.
    exact browser setup before the assignment opens.
 3. Decide what students will save, export, or submit.
 4. Identify whether students need the student workflow pages, a transcript
-   page, or troubleshooting guidance in advance.
+   page, or troubleshooting guidance in advance, such as
+   [For Students](/docs/students), [Videos and Transcripts](/docs/videos), or
+   [Troubleshooting](/docs/support/troubleshooting).
 5. Keep the [Support](/support) page nearby for classroom issues.
 
 ## Curriculum and reuse
@@ -74,5 +81,7 @@ teaching material rather than relying on older workshop or archive pages.
 - [Quick Start](/curriculum/quick-start)
 - [Lab Manual](/curriculum/lab-manual)
 - [Model Lessons](/curriculum/model-lessons)
+- [Exercise 1](/curriculum/lab-manual/exercise-1)
+- [Avida-ED 4 Tutorial Videos](/docs/videos/avida-ed-4-tutorial-videos)
 - [For Students](/docs/students)
 - [Troubleshooting](/docs/support/troubleshooting)

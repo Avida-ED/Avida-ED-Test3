@@ -19,15 +19,22 @@ This section is the instructor-facing curriculum hub for teaching with Avida-ED.
 
 - **Planning and background**
   Material for understanding what Avida-ED is good at, how it fits into a
-  course, and how to prepare students for productive use.
+  course, and how to prepare students for productive use. Start with
+  [Quick Start](/curriculum/quick-start) or
+  [For Instructors](/getstarted/instructors).
 
 - **Lab Manual**
-  A structured sequence of exercises that can be used as a guided entry into
-  digital evolution, followed by a more open-ended project.
+  A structured sequence of
+  [exercises](/curriculum/lab-manual/exercise-1) that can be used as a guided
+  entry into digital evolution, followed by a more open-ended
+  [independent project](/curriculum/lab-manual/independent-research-project).
 
 - **Model Lessons**
   Concept-focused teaching materials for particular topics in evolution,
-  including mutation, genotype and phenotype, selection, and adaptation.
+  including [mutation](/curriculum/model-lessons/genetic-variations),
+  [genotype and phenotype](/curriculum/model-lessons/genotype-to-phenotype),
+  [selection](/curriculum/model-lessons/exploring-selection), and
+  [adaptation](/curriculum/model-lessons/artificial-selection).
 
 ## Reuse and support materials
 
@@ -44,7 +51,9 @@ The legacy site also distinguished between:
 
 Some of those instructor-support materials are represented directly in the
 bundled files here, while others are reflected more generally in the rewritten
-HTML guidance.
+HTML guidance on pages such as [Quick Start](/curriculum/quick-start),
+[Lab Manual](/curriculum/lab-manual), and
+[Instructor FAQ](/docs/support/instructor-faq).
 
 ## How to choose a path
 
@@ -64,10 +73,10 @@ For a first classroom use:
 1. Confirm that [Avida-ED 4](/app) launches on the devices you plan to use.
 2. Decide whether your class needs a short introduction or a longer lab
    sequence.
-3. Begin with **Lab Manual - Exercise 1** if students are new to the
-   environment.
-4. Use the model lessons when you want to focus on a particular concept or tie
-   the software to a specific unit.
+3. Begin with [Lab Manual - Exercise 1](/curriculum/lab-manual/exercise-1) if
+   students are new to the environment.
+4. Use the [model lessons](/curriculum/model-lessons) when you want to focus
+   on a particular concept or tie the software to a specific unit.
 
 ## Tutorial and walkthrough resources
 
@@ -83,10 +92,10 @@ This curriculum area preserves the most durable parts of the earlier curriculum
 hub:
 
 - the 2019 lab-book sequence
-- the model lesson set
+- the [model lesson set](/curriculum/model-lessons)
 - supporting PDFs that still help instructors plan or teach
 - lesson orientation resources and walkthrough references
-- publications about classroom design and learning outcomes
+- [publications about classroom design and learning outcomes](/curriculum/publications)
 
 ## Teaching emphasis
 

@@ -30,3 +30,10 @@ template for classroom support requests.
 This section is the main support path for classroom use. Start here when you
 need help launching the app, diagnosing a lesson problem, reporting a bug, or
 finding accessibility-related guidance.
+
+If the problem is tied to a specific assignment, also keep the relevant
+instructional page open:
+
+- [For Students](../students/index.md)
+- [For Instructors](/getstarted/instructors)
+- [Curriculum](/curriculum)
