@@ -56,6 +56,16 @@ The detailed remaining process document is at
 For repo promotion and GitHub setup steps, see
 [REPO_PROMOTION_PROCESS.md](/mnt/CIFS/pengolodh/Docs/Projects/genai/codex-projects/web-avida-ed-codex/Avida-ED-Test3/REPO_PROMOTION_PROCESS.md).
 
+## Hosting large assets
+
+GitHub rejects files larger than 95 MB, so installers, videos, or archives that
+exceed that limit should reside under `staging/` instead of `static/`. Document
+each staging asset inside `staging/README.md`, noting the intended permanent
+host (cloud storage, external archive, mirror repo, etc.) and which page(s) need
+their URLs updated once the host is ready. After you publish the file at that
+host, switch the content links from `staging/...` to the final location and
+remove the staging copy so the repo stays within GitHub’s size limit.
+
 The local workflow now has two stages:
 
 - `scripts/transcribe_media.py` for media-to-draft transcript generation
