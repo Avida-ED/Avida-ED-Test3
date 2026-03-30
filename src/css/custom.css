@@ -553,7 +553,7 @@
 .markdown h3,
 .theme-doc-markdown h2,
 .theme-doc-markdown h3 {
-  scroll-margin-top: 8.5rem;
+  scroll-margin-top: 12.5rem;
 }
 
 @media (max-width: 996px) {
@@ -573,7 +573,7 @@
   .markdown h3,
   .theme-doc-markdown h2,
   .theme-doc-markdown h3 {
-    scroll-margin-top: 7.5rem;
+    scroll-margin-top: 10rem;
   }
 }
 
