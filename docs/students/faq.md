@@ -84,3 +84,25 @@ Before assuming the software is wrong, check:
 
 If the issue still looks like a software or browser problem, use
 [Troubleshooting](../support/troubleshooting.md).
+
+## How much does Avida-ED cost?
+
+Avida-ED is free for classroom use. There is no license fee for the web-based
+deployment or the legacy installers.
+
+## Where can I find instructions?
+
+- Download the current user manual from the [Download](/download) page to get
+  explanations of each control and workflow.
+- Watch the [overview video](https://www.youtube.com/watch?v=Z4fLAzYaKwE) that
+  introduces the interface and key ideas.
+- Use the `For Students` workflow pages in this site for the steps your
+  instructor actually needs you to follow.
+
+## Can I change environmental settings during a run?
+
+Once you press Run, most of the controls freeze to keep the experiment
+repeatable. The exception is the Pause button; you can use it to stop the
+run, change the pause level slider, and continue. In future releases we plan to
+let advanced users adjust more parameters while the run is active, but for now
+stick to the default sequence.
