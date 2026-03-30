@@ -6,7 +6,7 @@ title: News Archive
 
 Avida-ED was the 2017 [winner](https://urldefense.proofpoint.com/v2/url?u=http-3A__alife.org_news_2017-2Disal-2Dawards-2Dwinners&d=DwMGaQ&c=nE__W8dFE-shTxStwXtp0A&r=OhbnhCQixGRgzL5zcFdYeoFjbPysQ9Tme_9WIfX-gZ4&m=a6lx9sMoImHSgHfOf_7zkOkFpFQhF6xhIVlV_7ZmNW0&s=rK0H3oqjaZ8xkxyiSBBUgbUtfwEzyQmoAyO1R-FsUhg&e=) of the International Society for Artificial Life (ISAL) Education and Outreach Award. The award was announced at the Artificial Life conference, which was held September 4-8 in Lyon, France. Congratulations to everyone who has worked on the Avida-ED project over the years!
 
-![Avida-ED 2017 Award](files/Avida-ED_ISAL_Award.jpg)
+![Avida-ED 2017 Award](/img/about/Avida-ED_ISAL_Award.jpg)
 
 ## News and Events
 
@@ -17,7 +17,7 @@ Avida-ED was the 2017 [winner](https://urldefense.proofpoint.com/v2/url?u=http-3
 - 2021 March: *Active LENS WAVES experiential learning workshop*. A 10-week virtual experiential learning workshop will take place from June 15 to August 20. Participants (upper-level undergraduates or other early-career computer scientists) will use C++ and/or JavaScript to develop code and tools for a future version of Avida-ED. The workshop will be a full time, mentored experience and participants will be paid a $6000 stipend. Any US citizens/permanent residents with coding experience (ideally in C++ or JavaScript) are welcome to apply. We especially want to encourage participation by people from groups normally underrepresented in computer science. If you are interested or know someone who might be, full information can be found at [mmore500.com/waves](https://mmore500.com/waves/). Applications review will begin March 26, 2021. [April 8 - **Applications are closed**.]
 - 2020 July 1 & 2: The ninth national Avida-ED Active LENS Workshop for faculty was held online.
 
-  ![](wp-content/uploads/2020/09/Active-LENS-workshop-6-group.png)
+  ![](/img/about/ActiveLens2021_group_March.png)
 
 - 2020 August 16: We are pleased to welcome Brian Geyer as a new graduate research assistant on the project. Brian will be doing interviews with faculty who have taken an Active-LENS workshop to document their use and further dissemination of Avida-ED.
 - 2020 May 26: The Active LENS WAVES workshop has started with about a dozen undergraduate and early-career participants. They will be learning about the software development side of Active LENS and their programming projects will help provide infrastructure for what will eventually become Avida-ED 5.
@@ -25,37 +25,37 @@ Avida-ED was the 2017 [winner](https://urldefense.proofpoint.com/v2/url?u=http-3
 - 2020 May 1: Louise Mead and Cory Kohn gave an invited [virtual walk-through](https://qubeshub.org/community/groups/quant_bio_online/teachertalk#avidaed) of Avida-ED and some tips about using it for on-line instruction for the QUBES quantitative biology collaborative.
 - 2020 May: *Active LENS WAVES experiential learning workshop*. A 10-week virtual experiential learning workshop will take place from May 26 and July 31. Participants (upper-level undergraduates or other early-career computer scientists) will use C++ and/or JavaScript to develop code and tools for a future version of Avida-ED. The workshop will be a full time, mentored experience and participants will be paid a $6000 stipend. Any US citizens/permanent residents with coding experience (ideally in C++ or JavaScript) are welcome to apply. We especially want to encourage participation by people from groups normally underrepresented in computer science. If you are interested or know someone who might be, full information can be found at [mmore500.com/waves](https://mmore500.com/waves/). Applications are due by Monday (May 4th) and decisions will be made by the following Monday (May 11th).
 - 2020 March: Avida-ED is a good option for an online lab
-Exercises from our Lab Book provide actual experiments (as opposed to simulations) for on-line labs. Please visit our [Curriculum](curriculum/index.html) page. **Videos from our Active LENS Train-the-Trainers Workshop** have been added to help professors / instructors / teachers get up to speed.
+Exercises from our Lab Book provide actual experiments (as opposed to simulations) for on-line labs. Please visit our [Curriculum](/curriculum) page. **Videos from our Active LENS Train-the-Trainers Workshop** have been added to help professors / instructors / teachers get up to speed.
 - 2020 February: NEW PUBLICATION. Delbert S. Abi Abdallah, Christopher W. Fonner, Neil C. Lax, Matthew R. Babeji, Fatimata A. Pale. [Evaluating the Use of Avida-ED Digital Organisms to Teach Evolution & Natural Selection](https://abt.ucpress.edu/content/82/2/114). *The American Biology Teacher*, Vol. 82, No. 2, pp. 114-119.
 - 2019 November 15: Robert T. Pennock gave an invited talk "Avdia-ED: Learning Evolution and the Nature of Science using Evolving Digital Organisms" at the Department of Botany at University of Wisconsin, Madison WI.
 - 2019 August: The eight national Avida-ED Active LENS Workshop for faculty was held at Michigan State University in East Lansing, Michigan.
 
-  ![group photo in BEACON seminar room at MSU](files/ActiveLens2019b_groupMSU)
+  ![group photo in BEACON seminar room at MSU](/img/about/ActiveLens2019b_groupMSU.jpg)
 
 - 2019 August 2: Mike Wiser gave a 2 hour Avida-ED workshop at the International Society for Artificial Life meeting in Newcastle-upon-Tyne, UK.
 - 2019 July 14-18: Jim Smith ran a 2 hour workshop session on Avida-ED for teaching faculty at the BioQUEST/QUBES Summer Workshop, held at the College of William and Mary.
 - 2019 July 8: Louise Mead gave a presentation about Avida-ED to the National Center for Science Education (NCSE) Teacher Ambassadors Workshop.
 - 2019 June: William Beachly presented a poster on Avida-ED at a session during the AP biology reading in Kansas City and at the Association for Biology Laboratory Education in Ottawa, CA (pictured). The abstract will be published as: Beachly W. 2020. *Is mutation a creative or destructive force in evolution?* Article 58 In: McMahon K, editor. *Advances in biology laboratory education*. Volume 41. Publication of the 41st Conference of the Association for Biology Laboratory Education (ABLE). [ableweb.org/volumes](http://www.ableweb.org/volumes/) (once volume 41 is posted)
 
-  ![](files/Home-News/Beachly-W_2020_IMG_0137_crop.jpeg)
+  ![](img/about/Beachly-W_2020_IMG_0137_crop.jpeg)
 
 - 2019 June 24: Diane Blackwood, Matthew Rupp, Charles Ofria, Robert T. Pennock. "Avida-ED 4.0: Ecology" Poster Presentation at Evolution 2019. Providence, RI.
 
-  ![](files/Avida-Ed4Ecology_05_800w.jpg)
+  ![](/img/about/Avida-Ed4Ecology_05_800w.jpg)
 
 - 2019 June 24: Mike Wiser, Jim Smith, Louise Mead, Robert T. Pennock. "Students reason similarly about bacteria and birds: A case study" Poster Presentation at Evolution 2019. Providence, RI.
 - 2019 June: The seventh national Avida-ED Active LENS Workshop for faculty was held at the University of Texas campus in Austin, Texas.
 
-  ![group of participants and instructors under oak tree at UT Austin](files/ActiveLENS2019AustinGroup.jpg)
+  ![group of participants and instructors under oak tree at UT Austin](/img/about/ActiveLENS2019AustinGroup.jpg)
 
 - 2019 May 30-31: Jim Smith traveled to Leesburg, Virginia for Loudoun County High School's Research Day, where he gave two talks to students about MSU, LBC, and Avida-ED and was a judge for upwards of 30 student teams presenting their Avida-ED research posters.
 - 2019 May: The Avida-ED team gave an invited workshop at the University of Buenos Aires at the invitation of Ignacio Sanchez and Diego Ferreiro under a CELFI grant they received. Over twenty faculty members from half a dozen Central and South American countries came to learn about how to incorporate Avida-ED into their courses.
 
-  ![A mural in Buenos Aires with DNA double helix showing nucleotide pairs, native animals and people](files/Avida-EDinArgentina_ScienceMural.jpg)
+  ![A mural in Buenos Aires with DNA double helix showing nucleotide pairs, native animals and people](/img/about/Avida-EDinArgentina_ScienceMural.jpg)
 
-  ![workshop participants from all over Latin America](files/Avida-EDinArgentina_classroom.jpg)
+  ![workshop participants from all over Latin America](/img/about/Avida-EDinArgentina_classroom.jpg)
 
-  ![Group photo of participants, instructors and organizers in front of the building hosting the workshop at the University of Buenos Aires](files/Avida-EDinArgentina_participants.jpg)
+  ![Group photo of participants, instructors and organizers in front of the building hosting the workshop at the University of Buenos Aires](/img/about/Avida-EDinArgentina_participants.jpg)
 
 - 2019 April 23: Anna Bowling, Michael Wiser, Louise S. Mead, James J. Smith, Robert T. Pennock. "Avida-ED and Undergraduate Student Performance on the Conceptual Inventory of Natural Selection (CINS) Bacteria Versus Finch Questions." Poster presentation at 13th Annual Lyman Briggs Research Symposium. Michigan State University, East Lansing, MI.
 - 2019 April 18: Reid Blanchett, Mike Wiser, Louise S. Mead, James J. Smith, Robert T. Pennock. "Evaluation of the understanding of the scientific process in students using Avida-ED via scientific process flowchart assessments" Poster presentation at SUTL Symposium. Michigan State University, East Lansing, MI.
@@ -63,21 +63,21 @@ Exercises from our Lab Book provide actual experiments (as opposed to simulation
 - 2019 January: Avida-ED is discussed in the feature article "Using Digital Organism Evolutionary Software in the Classroom" by Luke Appleton and Joshua Mackie in *American Biology Teacher* (Vol. 81 No. 1, pp. 11-16).
 - 2018 October 8: Active LENS participant Sami Raut taught an [Avida-ED workshop in India](https://www.uab.edu/reporter/outreach/global-actions/item/8497-raut-takes-cutting-edge-education-technology-to-india-peru), increasing Avida-ED's use internationally. (2018)
 
-  ![Sami Raut, PhD, assistant professor in the Department of Biology](files/Home-News/Sami_Raut.jpg)
+  ![Sami Raut, PhD, assistant professor in the Department of Biology](/img/about/Sami_Raut.jpg)
 
 - 2018 August: The sixth national Avida-ED Active LENS Workshop for faculty was held at the Michigan State University campus in East Lansing.
 
-  ![NC A&T Active LENS group](files/ActiveLens2018b_groupMSU.jpg)
+  ![NC A&T Active LENS group](/img/about/ActiveLens2018b_groupMSU.jpg)
 
 - 2018 June: The fifth national Avida-ED Active LENS Workshop for faculty was held at the North Carolina A&T campus in Greensboro.
 
-  ![NC A&T Active LENS group](files/ActiveLens2018a_groupNCAT.jpg)
+  ![NC A&T Active LENS group](/img/about/ActiveLens2018a_groupNCAT.jpg)
 
 - 2018 June 28: NEW PUBLICATION. Cory Kohn, Robert T. Pennock, Jim Smith, Michael J Wiser, and Louise S Mead. [A Digital Technology-based Introductory Biology Course Designed for Engineering and Other Non-life Science STEM Majors](https://onlinelibrary.wiley.com/doi/abs/10.1002/cae.21986). *Computer Applications in Engineering Education*. (2018 25(5):1-12. DOI: 10.1002/cae.21986)
-- 2018 April 6: NEW PUBLICATION. Amy Lark, Gail Richmond, Louise S. Mead, James J. Smith and Robert T. Pennock. 2018. [Exploring the Relationship between Experiences with Digital Evolution and Students' Scientific Understanding and Acceptance of Evolution](files/curricula/ABT_Exploring_Relationship__Understanding_Acceptance_Evo.pdf). *The American Biology Teacher* 80(2): 74-86.
+- 2018 April 6: NEW PUBLICATION. Amy Lark, Gail Richmond, Louise S. Mead, James J. Smith and Robert T. Pennock. 2018. [Exploring the Relationship between Experiences with Digital Evolution and Students' Scientific Understanding and Acceptance of Evolution](/curriculum/publications/ABT_Exploring_Relationship__Understanding_Acceptance_Evo.pdf). *The American Biology Teacher* 80(2): 74-86.
 - 2018: Whitley Lehto, Mayra Vidal, Gabby Gurule-Small, and Dale Broder [taught an introduction to Avida-ED digital evolution software](https://dalebroder.wordpress.com/2018/02/16/digital-evolution-workshop/) (developed at BEACON) at a regional conference, [The 2018 Front Range Ecology Symposium](http://ecosym.ecology.colostate.edu/), in Fort Collins CO. Many of the attendees have ideas for how to include Avida-ED activities in their classes.
 
-  ![Dale Broder, Whitley Lehto, Mayra Vidal, Gabby Gurule-Small with Avida-ED lab manual](files/DaleBroderWorkshop201802a.jpg)
+  ![Dale Broder, Whitley Lehto, Mayra Vidal, Gabby Gurule-Small with Avida-ED lab manual](/img/about/DaleBroderWorkshop201802a.jpg)
 
 - 2018 February: PUBLICATION. Wendy R. Johnson and Amy Lark. 2018. [Evolution in Action in the Classroom: Engaging Students in Science Practices to Investigate and Explain Evolution by Natural Selection](https://abt.ucpress.edu/content/80/2/92). *The American Biology Teacher* 80(2): 92-99 DOI: 10.1525/abt.2018.80.2.92
 
@@ -86,7 +86,7 @@ Exercises from our Lab Book provide actual experiments (as opposed to simulation
 
 - 2017 July 27-29: The fourth national Avida-ED Active LENS Workshop for faculty was held at the Michigan State University campus.
 
-  ![](https://i1.wp.com/avida-ed.msu.edu/wp-content/uploads/2016/07/WE6_6639_gimp.jpg?resize=600%2C312)
+  ![](/img/about/about/ActiveLens2017_group_July.jpg?resize=600%2C312)
 
   *Active Lens 2017 July workshop participants (Photo: Wesley Elsberry)*
 
@@ -100,7 +100,7 @@ Exercises from our Lab Book provide actual experiments (as opposed to simulation
 
 - 2017 June 21-23: The third national Avida-ED Active LENS Workshop for faculty was held at the BEACON Center for the Study of Evolution in Action at the University of Washington in Seattle.
 
-  ![Active Lens 2017 June workshop participants](https://i2.wp.com/avida-ed.msu.edu/wp-content/uploads/2016/07/ActiveLens2017JuneGroup.jpg?resize=600%2C370)
+  ![Active Lens 2017 June workshop participants](/img/about/ActiveLens2017JuneGroup.jpg?resize=600%2C370)
 
   *Active Lens 2017 June workshop participants*
 
@@ -124,11 +124,11 @@ Exercises from our Lab Book provide actual experiments (as opposed to simulation
 
 - 2016 June 18: Robert T. Pennock, Charles Ofria, Diane Blackwood, Matt Rupp. "**Avida-ED 3.0: The Digital Evolution Education Platform, Now in the Browser**." *Evolution 2016*. Austin, TX.
 
-  ![Avida-ED 2.0](../files/Avida-ED2.png)
+  ![Avida-ED 2.0](/img/about/Avida-ED2.png)
 
 - 2016 June 9-11: The second national Avida-ED *Active LENS Workshop* for faculty was held at Lyman Briggs College and the BEACON Center for the Study of Evolution in Action here at MSU.
 
-  ![Active LENS 2016 workshop participants](../files/Active_LENS_group_2016.png)
+  ![Active LENS 2016 workshop participants](/img/about/Active_LENS_group_2016.png)
 
   *Active Lens Workshop 2016 workshop participants (Photo: Wesley Elsberry)*
 
@@ -144,7 +144,7 @@ Exercises from our Lab Book provide actual experiments (as opposed to simulation
 
 - 2015 June 4-6: *Active LENS Workshop*. We held the first of our national Avida-ED faculty development workshops as part of our NSF Active LENS grant at Lyman Briggs College and the BEACON Center for the Study of Evolution in Action here at MSU. The grant funded 18 participants, mostly university and college biology faculty, in nine teams of two and BEACON funded an additional team of two high school teachers. Teams came from both public and private colleges, universities, community college, and high schools, with participants from California, Florida, Illinois, Michigan, New Mexico, North Carolina, Ohio, Pennsylvania and Virginia.
 
-  ![Group photo of Active Lens Workshop 2015](../wp-content/uploads/2015/01/WE6_4805_lum_ase_gimp_1200w-1024x976.jpg)
+  ![Group photo of Active Lens Workshop 2015](img/about/about/ActiveLens2015_group_June.jpg)
 
   *Active Lens Workshop 2015 workshop participants (Photo: Wesley Elsberry)*
 
@@ -210,7 +210,7 @@ Exercises from our Lab Book provide actual experiments (as opposed to simulation
 
 - 2012 April 21: **Avida-ED Project wins Phi Kappa Phi Excellence Award in Interdisciplinary Scholarship**. The award is presented to interdisciplinary teams in recognition of excellence in interdisciplinary research and instruction or the application of such knowledge and skills to problems and opportunities in society.
 
-  ![Photo of presentation of award plaque to Robert Pennock](https://i2.wp.com/avida-ed.msu.edu/wp-content/uploads/2020/01/RP_Phi-Kappa-Phi-EAIS-2012-award.jpg?resize=470%2C335)
+  ![Photo of presentation of award plaque to Robert Pennock](/img/about/RP_Phi-Kappa-Phi-EAIS-2012-award.jpg?resize=470%2C335)
 
   *Robert Pennock accepts the EAIS award on behalf of the Avida-ED team.*
 
@@ -262,4 +262,4 @@ Exercises from our Lab Book provide actual experiments (as opposed to simulation
 
 ---
 
-![](../files/NSFlogo1sm.gif)
+![](/img/about/NSFlogo1sm.gif)
