@@ -18,9 +18,21 @@ Use this first when students have not worked with Avida-ED before.
 
 ## What students do
 
-- launch the app and identify the main work areas
-- observe how mutation introduces variation
-- begin keeping track of settings, observations, and explanations
+- launch Avida-ED 4 and identify the control panels for instructions, experiment
+  settings, and analysis
+- observe how random mutation introduces variation in the digital organisms
+- write down the settings, what you observe, and what the patterns suggest
+
+## Step-by-step flow
+
+1. Run a baseline experiment with the default world/minimal mutation rate so
+   students know what a “stable” run looks like.
+2. Record how many organisms reproduce, how the trait histogram or spectra
+   change, and what evidence supports an explanatory story.
+3. Turn on mutation (or increase it) for the same number of steps and compare
+   how the population behaves when variation enters through random mutation.
+4. Discuss: what changed, what stayed the same, and what did the evidence
+   suggest about mutation as a source of heritable variation?
 
 ## Legacy lab-book framing
 
@@ -31,8 +43,9 @@ multi-exercise sequence.
 ## Supporting materials
 
 - [Exercise 1 PDF](/curriculum/lab-book/Avida-ED_LabBook_Ex1.pdf)
-- Legacy explainer video remained hosted off-site and should be migrated later
-  with a transcript-first treatment.
+- Legacy explainer video by Mike Wiser is hosted on MSU MediaSpace and should
+  be treated via transcript-first migration; the URL is
+  `https://mediaspace.msu.edu/media/Exercise+1+Explained+by+Mike+Wiser/1_snm2noyl`.
 
 ## Estimated time
 

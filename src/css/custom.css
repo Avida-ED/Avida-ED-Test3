@@ -177,8 +177,8 @@
   /* Links */
   --ifm-link-color: #0c473c;
   --ifm-link-hover-color: #072f28;
-  --site-link-visited: #542962;
-  --site-link-underline: currentColor;
+  --site-link-visited: black;  /* was #542962 djb*/
+  --site-link-underline: black;  /*was currentColor djb*/
   --site-link-accent: rgba(12, 71, 60, 0.14);
   --site-link-accent-strong: rgba(12, 71, 60, 0.22);
   --site-link-focus-ring: rgba(15, 79, 67, 0.24);
