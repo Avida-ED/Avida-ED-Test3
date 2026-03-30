@@ -11,6 +11,15 @@ experimental reasoning.
 - justify claims with patterns in collected evidence
 - prepare for student-directed investigation
 
+## Step-by-step flow
+
+1. Start with the workspace saved from Exercise 3 or the provided workspace
+   download so everyone begins from the same batch of organisms.
+2. Reduce the selection pressure (penalty/reward) while keeping mutation constant.
+3. Watch how the population drifts or stabilizes over the same number of steps.
+4. Ask: which observed patterns can you attribute to drift versus selection?
+   Support your answer with histogram snapshots or data exports.
+
 ## Suggested use
 
 Use this near the end of the guided sequence, especially if students will move
@@ -32,8 +41,9 @@ does and does not explain.
 
 - [Exercise 4 PDF](/curriculum/lab-book/Avida-ED_LabBook_Ex4.pdf)
 - [Exercise 4 workspace file](/curriculum/assets/Ex4.avidaedworkspace.zip)
-- Legacy explainer videos remained hosted off-site and should be migrated later
-  with transcript support.
+- Legacy explainer videos are part of the archived tutorial playlist; add them
+  to `docs/videos` with transcript-first pages so students can still revisit the
+  contrast cases without requiring the old flash interface.
 
 ## Estimated time
 

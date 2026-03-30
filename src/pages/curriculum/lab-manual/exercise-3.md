@@ -12,6 +12,15 @@ as evidence for those explanations.
 - evaluate whether observations support a proposed explanation
 - discuss how experimental setup shapes conclusions
 
+## Step-by-step flow
+
+1. Begin with the previous exercise’s saved setup so everyone starts from the same
+   baseline.
+2. Apply a consistent selection treatment (e.g., add a resource reward or
+   increase the penalty for a trait) and rerun for the same number of steps.
+3. Collect the histogram data and reproduction counts for each condition.
+4. Ask: what changed? Which evidence supports the selection explanation?
+
 ## Suggested use
 
 Use this when students are ready for more analytical discussion and less guided
@@ -33,7 +42,9 @@ evidence about evolutionary processes.
 
 - [Exercise 3 PDF](/curriculum/lab-book/Avida-ED_LabBook_Ex3.pdf)
 - Legacy explainer video remained hosted off-site and should be migrated later
-  with transcript support.
+- Legacy explainer video is part of the archived playlist linked from the
+  legacy site; please add it to `docs/videos` with a transcript-first page so
+  students can still access the narrative.
 
 ## Estimated time
 
