@@ -342,14 +342,14 @@
   color: var(--ifm-link-color);
   box-shadow: inset 0 -0.1em 0 var(--site-link-accent);
   font-weight: 700;
+  background: linear-gradient(transparent 0, transparent calc(100% - 0.25em), rgba(12, 71, 60, 0.15) calc(100% - 0.25em), rgba(12, 71, 60, 0.15) 100%);
   text-decoration-line: underline;
   text-decoration-color: var(--site-link-underline);
   text-decoration-thickness: 0.14em;
   text-underline-offset: 0.22em;
   text-decoration-skip-ink: auto;
   transition: color 140ms ease, text-decoration-thickness 140ms ease,
-    text-decoration-color 140ms ease, box-shadow 140ms ease,
-    background-color 140ms ease;
+    text-decoration-color 140ms ease, box-shadow 140ms ease, background 140ms ease;
 }
 
 .markdown a:visited,
@@ -362,7 +362,7 @@
 .theme-doc-markdown a:hover,
 .theme-doc-markdown a:focus-visible {
   color: var(--ifm-link-hover-color);
-  box-shadow: inset 0 -0.16em 0 var(--site-link-accent-strong);
+  box-shadow: inset 0 -0.18em 0 var(--site-link-accent-strong);
   text-decoration-thickness: 0.17em;
 }
 
