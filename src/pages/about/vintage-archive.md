@@ -22,7 +22,11 @@ Archive items are appropriate when they are still useful for:
 - preserving materials that are worth keeping but should not guide new users
 
 Examples from the legacy site included older Mac and Windows installers for
-Avida-ED 1.x and 2.x, along with other superseded standalone packages.
+Avida-ED 1.x and 2.x, along with other superseded standalone packages such as:
+
+- [Avida-ED 2.0 beta 41 (Mac)](/versions/Avida-ED-2.0b41.dmg)
+- [Avida-ED 3.x standalone disk image (Mac)](/versions/Avida-ED-Universal-3011Plus.dmg)
+- [Avida-ED 3.x standalone zip package (Windows)](/versions/Avida-ED-Unpacked-1.2.0.3008.zip)
 
 ## What should not happen here
 

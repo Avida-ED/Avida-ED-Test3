@@ -74,8 +74,8 @@ not as the default way students should start using Avida-ED.
 
 The legacy site also listed standalone Avida-ED 3.3.5 packages for:
 
-- Mac OS
-- Windows
+- [Mac OS disk image](/versions/Avida-ED-Universal-3011Plus.dmg)
+- [Windows zip package](/versions/Avida-ED-Unpacked-1.2.0.3008.zip)
 
 Those options matter only when a course must work without reliable internet
 access or must match older course materials closely.
@@ -98,3 +98,4 @@ should not replace the main browser-based launch path in normal course use.
 - [For Students](/docs/students)
 - [For Instructors](/curriculum)
 - [Vintage Archive](/about/vintage-archive)
+- [Version History](/about/version-history)
