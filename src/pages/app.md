@@ -34,6 +34,8 @@ default choice for most courses and individual learners.
 ## Need an offline or downloadable version?
 
 Use the [Download / Offline](/download) page for installer and archive guidance.
+That page now carries the legacy standalone and localhost patterns as fallback
+guidance rather than as the primary launch path.
 
 ## If you are sending students here
 

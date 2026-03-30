@@ -58,6 +58,40 @@ The legacy download page included:
 Those paths are still relevant for fallback scenarios, but they should now be
 presented as secondary to the browser-based launch workflow.
 
+## Legacy fallback details
+
+### Avida-ED 4 Anti-BitRot edition
+
+The legacy site pointed instructors to a separate repository for a long-term-use
+packaged Avida-ED 4 environment:
+
+- `https://github.com/welsberr/aed-docker`
+
+Treat that as a specialist fallback for controlled deployment or preservation,
+not as the default way students should start using Avida-ED.
+
+### Standalone Avida-ED 3.3.5
+
+The legacy site also listed standalone Avida-ED 3.3.5 packages for:
+
+- Mac OS
+- Windows
+
+Those options matter only when a course must work without reliable internet
+access or must match older course materials closely.
+
+### Windows localhost workflow
+
+For the older Windows standalone package, the legacy workflow was:
+
+1. install the local standalone package
+2. allow the local server on private networks if Windows prompts for permission
+3. open a browser to `http://localhost:8000/AvidaEd.html`
+4. relaunch the local server executable for future sessions
+
+That is still useful archive guidance for a controlled fallback setup, but it
+should not replace the main browser-based launch path in normal course use.
+
 ## Related pages
 
 - [Launch Avida-ED](/app)
