@@ -29,6 +29,23 @@ This section is the instructor-facing curriculum hub for teaching with Avida-ED.
   Concept-focused teaching materials for particular topics in evolution,
   including mutation, genotype and phenotype, selection, and adaptation.
 
+## Reuse and support materials
+
+The earlier curriculum hub described these materials as reusable teaching
+resources under a Creative Commons license. That remains the right way to think
+about the curriculum: adapt it to your own course rather than treating it as a
+fixed script.
+
+The legacy site also distinguished between:
+
+- student-facing handouts and lab materials
+- instructor-support materials with background notes, variations, and answer-key
+  content
+
+Some of those instructor-support materials are represented directly in the
+bundled files here, while others are reflected more generally in the rewritten
+HTML guidance.
+
 ## How to choose a path
 
 - Choose [Quick Start](/curriculum/quick-start) if you need one class period or a
@@ -52,6 +69,14 @@ For a first classroom use:
 4. Use the model lessons when you want to focus on a particular concept or tie
    the software to a specific unit.
 
+## Tutorial and walkthrough resources
+
+If you need orientation support in addition to the written curriculum pages, use
+the current transcript-first video area:
+
+- [Avida-ED 4 Tutorial Videos](/docs/videos/avida-ed-4-tutorial-videos)
+- [Videos and Transcripts](/docs/videos)
+
 ## What this section carries forward
 
 This curriculum area preserves the most durable parts of the earlier curriculum
@@ -60,6 +85,7 @@ hub:
 - the 2019 lab-book sequence
 - the model lesson set
 - supporting PDFs that still help instructors plan or teach
+- lesson orientation resources and walkthrough references
 - publications about classroom design and learning outcomes
 
 ## Teaching emphasis

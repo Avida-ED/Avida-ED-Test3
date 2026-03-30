@@ -50,9 +50,17 @@ The earlier curriculum hub paired several lab-manual exercises with explanatory
 videos, PDFs, and other assets. In this redesign, the HTML overview pages serve
 as the main entry point and downloads function as labeled supplements.
 
+Where a walkthrough or transcript is available, treat that as orientation
+support rather than as a replacement for the written exercise structure.
+
 ## Available downloads
 
 - [Complete lab book (2019)](/curriculum/lab-book/Avida-ED_LabBook.pdf)
 - [Introduction](/curriculum/lab-book/Avida-ED_LabBook_Intro.pdf)
 - [Quick Start User Manual](/curriculum/lab-book/Avida-ED_LabBook_QuickStart.pdf)
 - [Discover: Testing Darwin](/curriculum/lab-book/Avida-ED_LabBook_Darwin.pdf)
+
+## Related video support
+
+- [Avida-ED 4 Tutorial Videos](/docs/videos/avida-ed-4-tutorial-videos)
+- [Videos and Transcripts](/docs/videos)

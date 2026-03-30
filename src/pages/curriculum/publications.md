@@ -21,6 +21,13 @@ Use these when you need evidence about how students respond to Avida-ED-based
 instruction, especially around scientific reasoning, evolution learning, and
 engagement with evidence.
 
+## Additional legacy references
+
+The earlier curriculum page also referenced related curriculum publications that
+are not all bundled locally in this repo. Those references are still useful as
+part of the project history, but the files listed above are the publication
+assets currently carried directly by this site.
+
 ## How to use this page
 
 - Read these alongside [Quick Start](/curriculum/quick-start) when planning a first
