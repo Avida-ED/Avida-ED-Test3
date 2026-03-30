@@ -13,6 +13,24 @@ const config = {
   organizationName: 'Avida-ED',
   projectName: 'Avida-ED-Test3',
 
+  future: {
+    v4: {
+      useCssCascadeLayers: false,
+      removeLegacyPostBuildHeadAttribute: false,
+    },
+    experimental_faster: {
+      swcJsLoader: false,
+      swcJsMinimizer: false,
+      swcHtmlMinimizer: false,
+      lightningCssMinimizer: false,
+      mdxCrossCompilerCache: false,
+      rspackBundler: false,
+      rspackPersistentCache: false,
+      ssgWorkerThreads: false,
+    },
+    experimental_router: 'browser',
+  },
+
   // During stub phase, warnings are less disruptive than hard failures.
   // Flip back to 'throw' when the site is complete.
   onBrokenLinks: 'warn',
