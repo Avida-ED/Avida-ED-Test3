@@ -19,9 +19,21 @@ main interface.
 
 ## What students do
 
-- compare runs or conditions instead of observing only one case
-- connect visible outcomes to mutation and selection
-- practice turning observations into evidence-based claims
+- rerun the same setup while toggling the mutation rate or environment
+- record what changes and how the population histogram or trait distribution
+  responds
+- summarize what evidence supports the mutation/selection story you see
+
+## Step-by-step flow
+
+1. Start from a saved Exercise 1 or another baseline run so students have a
+   common reference.
+2. Increase mutation, change resource availability, or tweak another assigned
+   variable.
+3. Run the experiment for the same number of updates or steps as the baseline.
+4. Compare the histograms, genotype richness, and fitness distribution between
+   baseline and modified conditions.
+5. Ask: what changed? What did the evidence say about mutation vs. selection?
 
 ## Legacy lab-book framing
 
@@ -32,8 +44,8 @@ than only observe a single run.
 ## Supporting materials
 
 - [Exercise 2 PDF](/curriculum/lab-book/Avida-ED_LabBook_Ex2.pdf)
-- Legacy explainer video remained hosted off-site and should be migrated later
-  with transcript support.
+- Legacy explainer video is part of the archived Avida-ED tutorial playlist and
+  should be handled via transcript-first migration when the media is hosted.
 
 ## Estimated time
 
