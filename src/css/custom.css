@@ -175,10 +175,12 @@
   --ifm-color-content-secondary: #5c6066;
 
   /* Links */
-  --ifm-link-color: #0f4f43;
-  --ifm-link-hover-color: #0a342d;
-  --site-link-visited: #5b2f6b;
+  --ifm-link-color: #0c473c;
+  --ifm-link-hover-color: #072f28;
+  --site-link-visited: #542962;
   --site-link-underline: currentColor;
+  --site-link-accent: rgba(12, 71, 60, 0.14);
+  --site-link-accent-strong: rgba(12, 71, 60, 0.22);
   --site-link-focus-ring: rgba(15, 79, 67, 0.24);
 
   /* Code blocks (subtle, not loud) */
@@ -338,14 +340,16 @@
 .markdown a,
 .theme-doc-markdown a {
   color: var(--ifm-link-color);
-  font-weight: 600;
+  box-shadow: inset 0 -0.1em 0 var(--site-link-accent);
+  font-weight: 700;
   text-decoration-line: underline;
   text-decoration-color: var(--site-link-underline);
-  text-decoration-thickness: 0.12em;
-  text-underline-offset: 0.18em;
+  text-decoration-thickness: 0.14em;
+  text-underline-offset: 0.22em;
   text-decoration-skip-ink: auto;
   transition: color 140ms ease, text-decoration-thickness 140ms ease,
-    text-decoration-color 140ms ease, box-shadow 140ms ease;
+    text-decoration-color 140ms ease, box-shadow 140ms ease,
+    background-color 140ms ease;
 }
 
 .markdown a:visited,
@@ -358,7 +362,8 @@
 .theme-doc-markdown a:hover,
 .theme-doc-markdown a:focus-visible {
   color: var(--ifm-link-hover-color);
-  text-decoration-thickness: 0.15em;
+  box-shadow: inset 0 -0.16em 0 var(--site-link-accent-strong);
+  text-decoration-thickness: 0.17em;
 }
 
 .markdown a:focus-visible,
