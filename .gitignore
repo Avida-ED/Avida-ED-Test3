@@ -26,6 +26,7 @@ Thumbs.db
 # Video transcript workspace
 transcripts/
 staging/
+src/css/custom_green.css
 
 # Python/script ephemera
 scripts/__pycache__/
