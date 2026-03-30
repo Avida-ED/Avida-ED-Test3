@@ -25,16 +25,28 @@ Use model lessons when:
 
 ## Model lesson set
 
-The lesson set includes:
+Each lesson focuses on a single concept connected to the earlier lab manual
+work, with guided questions, suggested UI checkpoints, and a legacy note about
+which screenshots or conditional download pages you may need.
 
-- Understanding the Introduction of Genetic Variations by Random Mutation
-- [Understanding the Introduction of Genetic Variations by Random Mutation](/curriculum/model-lessons/genetic-variations)
-- [From Genotype to Phenotype](/curriculum/model-lessons/genotype-to-phenotype)
-- [Exploring the Effects of Mutation Rate on Individuals](/curriculum/model-lessons/mRate-individuals)
-- [Exploring the Effects of Mutation Rate on Populations](/curriculum/model-lessons/mRate-populations)
-- [Artificial Selection: Evolution in Practice](/curriculum/model-lessons/artificial-selection)
-- [Exploring Selection and Fitness](/curriculum/model-lessons/exploring-selection)
-- [Experimental Evolution Project with Evolving Digital Organisms](/curriculum/model-lessons/ex-evolve-project)
+- **[Understanding the Introduction of Genetic Variations by Random Mutation](/curriculum/model-lessons/genetic-variations)**  
+  Highlights how mutation introduces diversity and which settings drive it.  
+- **[From Genotype to Phenotype](/curriculum/model-lessons/genotype-to-phenotype)**  
+  Connects changes at the genetic level to observable traits (plus a legacy
+  diagram reference).  
+- **[Exploring the Effects of Mutation Rate on Individuals](/curriculum/model-lessons/mRate-individuals)**  
+  Investigates how single-organism responses vary when mutation rates shift.  
+- **[Exploring the Effects of Mutation Rate on Populations](/curriculum/model-lessons/mRate-populations)**  
+  Scales that question to population-level evidence and histogram storytelling.  
+- **[Artificial Selection: Evolution in Practice](/curriculum/model-lessons/artificial-selection)**  
+  Guides students through deliberate selection, including reporting templates
+  that mirror the legacy PDF advice.  
+- **[Exploring Selection and Fitness](/curriculum/model-lessons/exploring-selection)**  
+  Focuses on selection gradients, fitness landscapes, and interpreting plots.  
+- **[Experimental Evolution Project with Evolving Digital Organisms](/curriculum/model-lessons/ex-evolve-project)**  
+  The capstone project that unites lab manual practice, reporting, and open-ended
+  research; still references the original lab-book and workspace download for
+  pacing cues.
 
 ## Version note
 
