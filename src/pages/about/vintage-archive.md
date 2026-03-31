@@ -2,45 +2,15 @@
 title: Vintage Archive
 ---
 
-This page is for historical reference material that remains useful but should
-not be confused with current teaching guidance.
+Legacy downloads from the original Vintage Archive page:
 
-## Archive scope
+- [Avida-ED Version 2.0 for Mac OS X 10.8 or greater](/versions/Avida-ED-2.0b41.dmg)
+- [Avida-ED Version 1.2.0 for Mac OS X 10.4 to 10.7.1](/versions/Avida-ED-Universal-3011Plus.dmg)
+- Avida-ED Version 1.2.0 for Windows Vista (`.exe`) is not bundled in this repo
+- [Avida-ED Version 1.2.0 for Windows 7 (zipped)](/versions/Avida-ED-Unpacked-1.2.0.3008.zip)
 
-- older software versions
-- legacy documentation
-- outdated screenshots and handouts
-- historical project material retained for reference
+For current classroom use, start with:
 
-## What belongs in the archive
-
-Archive items are appropriate when they are still useful for:
-
-- interpreting older assignments that have not yet been rewritten
-- recovering a historical download or document
-- understanding project history
-- preserving materials that are worth keeping but should not guide new users
-
-Examples from the legacy site included older Mac and Windows installers for
-Avida-ED 1.x and 2.x, along with other superseded standalone packages such as:
-
-- [Avida-ED 2.0 beta 41 (Mac)](/versions/Avida-ED-2.0b41.dmg)
-- [Avida-ED 3.x standalone disk image (Mac)](/versions/Avida-ED-Universal-3011Plus.dmg)
-- [Avida-ED 3.x standalone zip package (Windows)](/versions/Avida-ED-Unpacked-1.2.0.3008.zip)
-
-## What should not happen here
-
-The archive should not become the default path for current classroom use. If a
-student or instructor lands here first, they should still be redirected by the
-page content toward:
-
-- [Launch Avida-ED](/app)
-- [For Students](/docs/students)
-- [For Instructors](/curriculum)
+- [Launch Avida-ED 4](/app)
+- [Curriculum](/curriculum)
 - [Help](/help)
-
-## Use with care
-
-Archived material can still be valuable, especially for courses with older
-assignments, but current learners and instructors should start from the updated
-support and curriculum pages first.
