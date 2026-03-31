@@ -76,7 +76,7 @@ A strong student response should identify:
 
 ## Keep nearby
 
-- [Support](/support)
+- [Help](/help)
 - [Troubleshooting](../support/troubleshooting.md)
 - [Student First Steps](../students/first-steps.md)
 - [Course Workflow](../students/course-workflow.md)

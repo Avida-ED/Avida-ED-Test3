@@ -43,5 +43,5 @@ When possible, use these pages first:
 3. Record what happened instead.
 4. Include your browser, device type, and assistive technology if relevant.
 
-Use the [Support](/support) page as the reporting entry point until a dedicated
+Use the [Help](/help) page as the reporting entry point until a dedicated
 support channel is published on the site.

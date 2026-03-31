@@ -30,7 +30,7 @@ prepare a lesson.
 - [Launch Avida-ED](/app)
 - [For Students](/docs/students)
 - [For Instructors](/curriculum)
-- [Support](/docs/support)
+- [Help](/help)
 - [Version History](/about/version-history)
 
 ## Migration note

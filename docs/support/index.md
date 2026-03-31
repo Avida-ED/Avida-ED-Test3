@@ -35,5 +35,5 @@ If the problem is tied to a specific assignment, also keep the relevant
 instructional page open:
 
 - [For Students](../students/index.md)
-- [For Instructors](/getstarted/instructors)
+- [For Instructors](/curriculum)
 - [Curriculum](/curriculum)
