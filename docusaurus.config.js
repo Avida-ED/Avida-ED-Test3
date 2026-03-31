@@ -73,7 +73,7 @@ markdown: {
       },
 
       navbar: {
-        title: 'Avida-ED',
+        title: 'Launch Avida-ED 4',
         logo: {
           alt: 'Avida-ED Logo',
           src: 'img/avida-ed-logo.png',

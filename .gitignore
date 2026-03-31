@@ -1,5 +1,7 @@
 # Dependencies
 node_modules/
+notes/
+
 
 # Docusaurus and build output
 .docusaurus/

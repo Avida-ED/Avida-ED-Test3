@@ -112,4 +112,4 @@ than in the learner-facing workflow pages.
 Page updated 2017/12/2  
 © Robert T. Pennock
 
-![NSF logo](files/NSFlogo1sm.gif)
+![NSF logo](/img/NSFlogo1sm.gif)

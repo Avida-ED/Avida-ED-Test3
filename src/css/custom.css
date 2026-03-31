@@ -177,8 +177,8 @@
   /* Links */
   --ifm-link-color: #0c473c;
   --ifm-link-hover-color: #072f28;
-  --site-link-visited: black;  /* was #542962 djb*/
-  --site-link-underline: black;  /*was currentColor djb*/
+  --site-link-visited: black;  /* was #542962 */
+  --site-link-underline: black;  /* was currentColor */
   --site-link-accent: rgba(12, 71, 60, 0.14);
   --site-link-accent-strong: rgba(12, 71, 60, 0.22);
   --site-link-focus-ring: rgba(15, 79, 67, 0.24);
@@ -335,6 +335,11 @@
 .theme-doc-markdown p,
 .theme-doc-markdown li {
   line-height: 1.7;
+}
+
+.main-wrapper a {
+  text-decoration: none;
+  border-bottom: 1px solid var(--ifm-color-primary);
 }
 
 .markdown a,

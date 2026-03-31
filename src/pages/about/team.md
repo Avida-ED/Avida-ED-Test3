@@ -15,23 +15,18 @@ title: About Us
 - [Charles Ofria](http://www.ofria.com) (Co-PI), Michigan State University
 - [Louise Mead](http://beacon-center.org/education-outreach/) (Co-PI), Michigan State University
 - [Jim Smith](https://www.msu.edu/user/jimsmith/) (Co-PI), Michigan State University
-- [Laura Grabowski](https://www2.potsdam.edu/grabowlm/index.html) (Senior Personnel), SUNY-Potsdam
-- [Joseph Graves](https://tinyurl.com/joseph-l-graves) (Senior Personnel), North Carolina A&T University
-- [Ben Kerr](http://kerrlab.org) (Senior Personnel), University of Washington
-- [Gerald Urquhart](https://tinyurl.com/gerald-urquhart) (Senior Personnel), Michigan State University
-- [Terence Soule](http://www2.cs.uidaho.edu/~tsoule/) (Senior Personnel), University of Idaho
 
 ## CURRENT STUDENTS, POSTDOCS & PROGRAMMERS
-
 - [Diane Blackwood](https://www.linkedin.com/in/dianeblackwood), Software Developer
-- [Mike Wiser](https://integrativebiology.natsci.msu.edu/alumni-and-friends/alumni-profiles/wiser-michael/), Postdoc
+- [Wesley Elsberry](https://en.wikipedia.org/wiki/Wesley_R._Elsberry), Software Developer
+
+## PREVIOUS STUDENTS, POSTDOCS, PROGRAMMERS &  PERSONNEL
+
 - [Eric Berling](https://philosophy.msu.edu/graduate-students/eric-berling/), Graduate Research Assistant
 - [Reid Blanchett](https://www.linkedin.com/in/reid-blanchett-419aaa5a/), Graduate Research Assistant
 - [Kenyon Cavender](https://www.linkedin.com/in/kenyon-cavender-916b05ba/), Graduate Research Assistant
 - [Anna Bowling](https://www.linkedin.com/in/anna-bowling-893b86171/), Undergraduate Research Assistant
-
-## PREVIOUS STUDENTS, POSTDOCS & PROGRAMMERS
-
+- [Mike Wiser](https://integrativebiology.natsci.msu.edu/alumni-and-friends/alumni-profiles/wiser-michael/), Postdoc
 - [Cory Kohn](https://www.linkedin.com/in/corykohn), Graduate Student
 - [Wendy Johnson](https://www3.beacon-center.org/blog/2014/09/22/beacon-researchers-at-work-transforming-science-education/), Graduate Student
 - [Amy Lark](https://www.researchgate.net/profile/Amy_Lark), Graduate Student
@@ -43,6 +38,12 @@ title: About Us
 - [Matt Rupp](https://www.linkedin.com/in/ruppmatt/), Software Developer
 - [Brian Baer](https://ees.natsci.msu.edu/people/research-associates-and-support-staff/baer/), Software Developer
 - [Kaben Nanlohy](https://www.linkedin.com/in/kaben-nanlohy-5a3b7641/), Software Developer
+- [Laura Grabowski](https://www2.potsdam.edu/grabowlm/index.html) (Senior Personnel), SUNY-Potsdam
+- [Joseph Graves](https://tinyurl.com/joseph-l-graves) (Senior Personnel), North Carolina A&T University
+- [Ben Kerr](http://kerrlab.org) (Senior Personnel), University of Washington
+- [Gerald Urquhart](https://tinyurl.com/gerald-urquhart) (Senior Personnel), Michigan State University
+- [Terence Soule](http://www2.cs.uidaho.edu/~tsoule/) (Senior Personnel), University of Idaho
+
 
 ## EXTERNAL ADVISORY COMMITTEE
 
@@ -50,4 +51,3 @@ title: About Us
 - [Ross Nehm](http://sciedphd.stonybrook.edu/content/dr-ross-nehm), Stony Brook University
 - [Brad Williamson](https://cstem.ku.edu/brad-williamson), Kansas University
 
-Page updated 2020/3/3
