@@ -546,9 +546,13 @@
 }
 
 .pageSubnav a {
+  background: transparent;
+  border-bottom: 0;
+  box-shadow: none;
   color: var(--ifm-link-color);
   font-size: 0.96rem;
   font-weight: 600;
+  padding: 0;
   text-decoration: underline;
   text-decoration-thickness: 0.1em;
   text-underline-offset: 0.16em;

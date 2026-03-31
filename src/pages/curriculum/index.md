@@ -4,6 +4,13 @@ sidebar_label: Curriculum
 sidebar_position: 1
 ---
 
+<nav className="pageSubnav" aria-label="Curriculum page sections">
+  <span className="pageSubnav__crumb" aria-current="page">Curriculum</span>
+  <a href="#avida-ed-lab-book">Lab book</a>
+  <a href="#model-lessons">Model lessons</a>
+  <a href="#publications-about-avida-ed-curricula">Publications</a>
+</nav>
+
 This page contains peer-reviewed [model lessons](#model-lessons), including
 in-class, homework, and lab exercises, that instructors may download and modify
 for their own classes under a
