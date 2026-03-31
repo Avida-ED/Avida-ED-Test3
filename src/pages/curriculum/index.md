@@ -182,7 +182,6 @@ their data, and write a research report.
 
 ---
 
-Page updated 2018 Aug 9  
 © Robert T. Pennock
 
 ![National Science Foundation logo](/img/NSFlogo1sm.gif)
