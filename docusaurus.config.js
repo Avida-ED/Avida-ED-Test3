@@ -85,7 +85,11 @@ markdown: {
           {
             label: 'Get Started',
             items: [
-              { label: 'Launch Avida-ED 4', to: '/app' },
+              {
+                label: 'Launch Avida-ED 4',
+                href: 'https://avida-ed.github.io/Avida-ED4/',
+                target: '_blank',
+              },
               { label: 'For Students', to: '/getstarted/students' },
               { label: 'For Instructors', to: '/getstarted/instructors' },
               { label: 'Download / Offline', to: '/download' },
