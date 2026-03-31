@@ -36,7 +36,7 @@ Download or archive materials are mainly relevant when:
 - If you are an instructor preparing a class: test the browser workflow first,
   then keep legacy or offline paths only as contingency options.
 - If you are matching an older handout or screenshot set: check
-  [Version History](/about/version-history) before assuming you need an older
+  [Vintage Archive](/about/vintage-archive) before assuming you need an older
   application version.
 
 ## Notes for instructors
@@ -98,4 +98,4 @@ should not replace the main browser-based launch path in normal course use.
 - [For Students](/docs/students)
 - [For Instructors](/curriculum)
 - [Vintage Archive](/about/vintage-archive)
-- [Version History](/about/version-history)
+- [Vintage Archive](/about/vintage-archive)

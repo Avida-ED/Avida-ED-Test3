@@ -31,7 +31,7 @@ prepare a lesson.
 - [For Students](/docs/students)
 - [For Instructors](/curriculum)
 - [Help](/help)
-- [Version History](/about/version-history)
+- [Vintage Archive](/about/vintage-archive)
 
 ## Migration note
 

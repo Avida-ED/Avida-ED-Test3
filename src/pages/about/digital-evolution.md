@@ -37,7 +37,7 @@ readings on pedagogy, digital evolution, and the research platform underlying
 Avida-ED. The current site keeps that role in:
 
 - [Instructor Publications](/curriculum/publications)
-- [What Is Avida-ED?](/about/avida-ed)
+- [About Us](/about/team)
 - [For Instructors](/curriculum)
 
 The legacy site also pointed readers to broader background literature on
