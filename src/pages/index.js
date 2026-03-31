@@ -1,10 +1,9 @@
 import React from 'react';
 import Layout from '@theme/Layout';
-import landingPageText from '../../staging/landing-page.json';
 
 export default function Home() {
-  const logoText = landingPageText['logo-text'] ?? 'Avida-ED';
-  const bodyText = landingPageText['body-text'] ?? '';
+  const logoText = 'Digital Evolution for Education';
+  const bodyText = 'Avida-ED is an award-winning educational application developed at Michigan State University for undergraduate biology courses. Researchers and educators designed Avida-ED to help students learn about evolution and scientific methods by allowing them to design and perform experiments to test hypotheses about evolutionary mechanisms using evolving digital organisms.';
 
   return (
     <Layout title="Avida-ED" description="Digital evolution for education">
