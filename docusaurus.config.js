@@ -77,6 +77,7 @@ markdown: {
         logo: {
           alt: 'Avida-ED Logo',
           src: 'img/avida-ed-logo.png',
+          href: 'https://avida-ed.github.io/Avida-ED4/',
         },
         items: [
           { label: 'Home', to: '/' },
@@ -91,12 +92,7 @@ markdown: {
             ],
           },
 
-          { label: 'Curriculum',
-            items: [
-              { label: 'For Students', to: '/docs/students' },
-              { label: 'For Instructors', to: '/curriculum' },
-            ],
-          },
+          { label: 'Curriculum', to: '/curriculum' },
 
           { label: 'Support', to: '/support' },
 
@@ -113,12 +109,6 @@ markdown: {
             ],
           },
 
-          {
-            label: 'Launch Avida-ED 4',
-            href: 'https://avida-ed.github.io/Avida-ED4/',
-            position: 'right',
-            className: 'button button--primary',
-          },
         ],
       },
 

@@ -1,7 +1,11 @@
 import React from 'react';
 import Layout from '@theme/Layout';
+import landingPageText from '../../staging/landing-page.json';
 
 export default function Home() {
+  const logoText = landingPageText['logo-text'] ?? 'Avida-ED';
+  const bodyText = landingPageText['body-text'] ?? '';
+
   return (
     <Layout title="Avida-ED" description="Digital evolution for education">
       <main>
@@ -14,7 +18,7 @@ export default function Home() {
                   src="img/avida-ed-logo.png"
                   alt="Avida-ED logo"
                 />
-                <h1 className="homeHero__title">Digital evolution for teaching and learning</h1>
+                <h1 className="homeHero__title">{logoText}</h1>
               </div>
 
               <div className="homeHero__videoBand">
@@ -31,73 +35,8 @@ export default function Home() {
             </div>
 
             <div className="contentColumn homeHero__body">
-              <p className="homeHero__blurb">
-                Avida-ED helps students investigate evolution by working with
-                populations of self-replicating digital organisms. It is designed
-                for teaching core ideas such as mutation, inheritance, adaptation,
-                selection, and the practice of scientific inquiry.
-              </p>
-              <p className="homeHero__blurb">
-                This site is organized for classroom use first. Students can find
-                launch guidance and learning materials quickly, while instructors
-                can move directly to curriculum, lesson sequencing, and support
-                resources for teaching with Avida-ED.
-              </p>
-
-              <div className="homeHero__links" aria-label="Quick links">
-                <a className="homeHero__link" href="/Avida-ED-Test3/app">
-                  Launch Avida-ED 4
-                </a>
-                <a className="homeHero__link" href="/Avida-ED-Test3/docs/students">
-                  Student materials
-                </a>
-                <a className="homeHero__link" href="/Avida-ED-Test3/curriculum">
-                  Instructor materials
-                </a>
-              </div>
+              <p className="homeHero__blurb">{bodyText}</p>
             </div>
-          </div>
-        </section>
-
-        <section className="homeSection">
-          <div className="container contentColumn">
-            <h2>Start here</h2>
-            <p>
-              The fastest path into Avida-ED depends on what you need to do
-              today.
-            </p>
-            <ul>
-              <li>
-                Students: go to the student materials page for launch help,
-                first steps, and guidance on using the curriculum.
-              </li>
-              <li>
-                Instructors: go to the instructor curriculum hub for lesson
-                planning, lab-manual sequencing, and model lessons.
-              </li>
-              <li>
-                Technical setup: use the launch and download pages if you need
-                browser access, offline options, or compatibility guidance.
-              </li>
-            </ul>
-          </div>
-        </section>
-
-        <section className="homeSection homeSection--subtle">
-          <div className="container contentColumn">
-            <h2>Why Avida-ED</h2>
-            <p>
-              Avida-ED was developed to support learning in biology classrooms,
-              especially where students benefit from observing evolutionary
-              processes directly, collecting evidence, and testing hypotheses in
-              a manageable experimental environment.
-            </p>
-            <p>
-              The goal of this public site is to support that educational work:
-              clearer launch guidance, clearer learner and instructor pathways,
-              and curriculum material that is easier to browse than the legacy
-              software-centered site.
-            </p>
           </div>
         </section>
       </main>
