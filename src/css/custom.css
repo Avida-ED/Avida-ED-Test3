@@ -527,9 +527,12 @@
   flex-wrap: wrap;
   gap: 0.55rem 1.1rem;
   margin: 0 0 1.5rem;
+  margin-right: -8rem;
+  max-width: none;
   padding: 0.7rem 0;
   position: sticky;
   top: 60px;
+  width: calc(100% + 8rem);
   z-index: 20;
 }
 
@@ -574,7 +577,9 @@
 
 @media (max-width: 996px) {
   .pageSubnav {
+    margin-right: 0;
     top: 56px;
+    width: 100%;
   }
 
   .pageSubnav__crumb {
